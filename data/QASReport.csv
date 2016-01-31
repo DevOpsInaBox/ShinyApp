@@ -1,0 +1,831 @@
+Defect ID,Status,Summary,Severity,Detected on Date,Environment,Incident Type,Modified,Closing Date,Root Cause
+1,Deferred,French is not enforced for the corresponding mandatory English field,2,14/9/2015,Development,Defect,17/12/2015 0:50,22/9/2015,Architecture Issue
+2,Closed,Unable to use same product allocation category for the different effective dates,2,14/9/2015,Development,Defect,13/11/2015 10:41,13/11/2015,Requirement Issue - Change in Requirement
+3,Closed,The rule 85 does not take into account effective date,2,14/9/2015,Development,Defect,13/11/2015 10:41,13/11/2015,Requirement Issue - Change in Requirement
+4,Closed,I am able to save 2 same products (same plan code and effective date),1,14/9/2015,Development,Defect,7/10/2015 12:43,7/10/2015,Requirement Issue - Change in Requirement
+5,Deferred,New eligibility button enabled when there is already one,4,14/9/2015,Development,Defect,21/9/2015 21:14,22/9/2015,Architecture Issue
+6,Deferred,I can save incomplete plans,4,14/9/2015,Development,Defect,21/9/2015 21:12,22/9/2015,Architecture Issue
+7,Closed,Tax screen has percentage field optional and does not reflect what back end stores,1,14/9/2015,Development,Defect,22/9/2015 15:08,22/9/2015,Design Issue
+8,Deferred,Group idicator missing from the SF screen and model,3,14/9/2015,Development,Defect,22/9/2015 14:49,22/9/2015,Architecture Issue
+9,Closed,Frequent and unexpected time-outs during sync process in SF,1,14/9/2015,Development,Defect,13/11/2015 10:41,13/11/2015,Environment Issue
+10,Closed,System Information fields - clarification needed,4,14/9/2015,Development,Defect,12/12/2015 21:31,13/12/2015,Requirement Issue - Change in Requirement
+11,Closed,Created and Modified date time for all TRIP objects,2,14/9/2015,Development,Defect,13/11/2015 10:41,13/11/2015,Coding Issue
+12,Closed,Product Translation contains English as Language option,4,14/9/2015,Development,Defect,21/9/2015 21:15,22/9/2015,Coding Issue
+13,Closed,Incorrect  values for  ActionInfo on complex objects,1,14/9/2015,Development,Defect,13/11/2015 10:42,13/11/2015,Design Issue
+14,Open,Copyright on TRIP screens,4,14/9/2015,Development,Watch List,12/1/2016 12:34,,Coding Issue
+15,Closed,Error on Account sync,3,14/9/2015,Development,Defect,22/9/2015 14:35,22/9/2015,Coding Issue
+16,Closed,Unexpected Status changes during Product setup,2,14/9/2015,Development,Defect,13/11/2015 10:43,13/11/2015,Coding Issue
+17,Closed,Product sync error,3,14/9/2015,Development,Defect,13/10/2015 13:46,13/10/2015,Design Issue
+18,Closed,Sync button does not invoke sync with back end,2,14/9/2015,Development,Defect,13/11/2015 10:52,13/11/2015,Architecture Issue
+19,Closed,Clone functionality is partial,3,14/9/2015,Development,Defect,12/12/2015 20:50,12/12/2015,Design Issue
+20,Closed,Disconnect between the questionnaire required and  questionnaire age setup,3,14/9/2015,Development,Defect,12/12/2015 20:49,12/12/2015,Environment Issue
+21,Closed,Rule 323 - there is not reference to first benefit being mandatory,3,14/9/2015,Development,Defect,13/11/2015 10:43,13/11/2015,Coding Issue
+22,Closed,I can remove only mandatory benefit,1,14/9/2015,Development,Defect,13/11/2015 10:43,13/11/2015,Coding Issue
+23,Closed,Unable to set up Multi Trip products,1,14/9/2015,Development,Defect,13/11/2015 10:44,13/11/2015,Environment Issue
+24,Closed,Program can be set without status,2,14/9/2015,Development,Defect,7/10/2015 12:47,7/10/2015,Requirement Issue - Inadequate/Missing Requirement
+25,Closed,I am able to inactivate programs associated with the plans,1,14/9/2015,Development,Defect,13/11/2015 10:44,13/11/2015,Coding Issue
+26,Closed,Unable to change data on Wynsure products,1,14/9/2015,Development,Defect,7/10/2015 12:45,7/10/2015,Coding Issue
+27,Closed,Status on the product is not set up correctly,1,14/9/2015,Development,Defect,13/11/2015 10:45,13/11/2015,Requirement Issue - Change in Requirement
+28,Rejected,"Search uses 3 char, but error msg says 2",3,16/9/2015,Development,Defect,21/9/2015 21:18,22/9/2015,Environment Issue
+29,Closed,Update contract line error message,4,18/9/2015,Development,Defect,22/9/2015 14:51,22/9/2015,Requirement Issue - Change in Requirement
+30,Closed,"[TM3_Product_Module] : I/O Exception on clicking ""Sync"" button for ""New Program""",1,21/9/2015,Test/SIT,Defect,7/12/2015 5:30,22/9/2015,Environment Issue
+31,Closed,"[TM3_Product_Module] :Product Module : Unable to setup Expiry Date to support Migration and Relaunch for Deductibles in ""Premium Adjustments""",2,21/9/2015,Test/SIT,Defect,7/12/2015 5:30,26/10/2015,Requirement Issue - Change in Requirement
+33,Closed,[TM3_Product_Module] : Duplicate entries are made to TRIP DB for Plan Class,2,21/9/2015,Test/SIT,Defect,7/12/2015 5:30,15/10/2015,Environment Issue
+34,Closed,TM3_Product_Module : Unable to Save ?Eligibility Qualifier? and ?Traveller Type? for newly created Product in TRIP,1,22/9/2015,Test/SIT,Defect,15/10/2015 3:43,15/10/2015,Build & Configuration Related Issue
+35,Closed,"TM3_Product_Module : There is no text displayed for ""Validation"" and ""Error Messages"" for newly created Product",2,22/9/2015,Test/SIT,Watch List,26/10/2015 1:13,26/10/2015,Design Issue
+36,Closed,"TM3_Product_Module : Unable to Save Product Details data In TRIP DB upon clicking ""Sync"" button",1,22/9/2015,Test/SIT,Defect,15/10/2015 4:38,15/10/2015,Build & Configuration Related Issue
+37,Closed,TM3_Product_Module : Displaying Wrong error message description while creating same product class in TRIP Application,4,22/9/2015,Test/SIT,Defect,16/10/2015 2:03,16/10/2015,Coding Issue
+38,Closed,"TM3_Product_Module : ""Product Class Code"" and ""Product Class Name"" is displaying as text box field instead of showing as Picklist field  in Product Class detail screen",3,22/9/2015,Test/SIT,Defect,13/10/2015 3:09,13/10/2015,Requirement Issue - Inadequate/Missing Requirement
+39,Closed,TM3_Product_Module : System is accepting value other than 2 decimal place while saving a new Premium Adjustments,3,22/9/2015,Test/SIT,Watch List,13/10/2015 2:37,2/10/2015,Requirement Issue - Change in Requirement
+40,Closed,PI&C: Error When Clicking on Policy Change button. Cannot proceed.,3,22/9/2015,Development,Defect,25/9/2015 7:48,25/9/2015,Build & Configuration Related Issue
+41,Closed,PI&C: I No Longer See The Asset Extension Object?,3,22/9/2015,Development,Defect,25/10/2015 13:23,2/10/2015,Build & Configuration Related Issue
+42,Closed,"TM3_Product_Module : Question ID is missing in following error message : ""This question already exists""",2,23/9/2015,Test/SIT,Defect,13/10/2015 3:15,13/10/2015,Coding Issue
+43,Closed,TM3_Product_Module : ?Asset contact Field is not getting displayed in ?Medical Question Response? screen,2,23/9/2015,Test/SIT,Defect,16/11/2015 11:05,16/11/2015,Build & Configuration Related Issue
+44,Closed,Not able to perform a quote through policy service,2,23/9/2015,Development,Defect,2/10/2015 7:20,2/10/2015,Environment Issue
+45,Closed,TM3_Product_Module : Receiving Error message while creating Medical Question Section in TRIP Application,1,23/9/2015,Test/SIT,Defect,12/11/2015 14:29,12/11/2015,Coding Issue
+46,Closed,TM3_Product_Module : Receiving Error message upon clicking on ?Activate? button for searched Product in TRIP Application,2,23/9/2015,Test/SIT,Watch List,13/10/2015 3:30,13/10/2015,Environment Issue
+47,Closed,Fail to sync Program record to backend,2,23/9/2015,Development,Defect,2/10/2015 7:20,2/10/2015,Coding Issue
+48,Closed,PI&C: Policy Change takes me to the SF Home Page,3,22/9/2015,Development,Defect,7/12/2015 8:23,9/10/2015,Test Data Issue - Invalid Test Data
+49,Closed,PI&C: Moving of Cancel and Reinstate buttons,3,24/9/2015,Development,Defect,12/12/2015 20:51,12/12/2015,Build & Configuration Related Issue
+50,Closed,PI&C: Rename Asset Extension?,3,24/9/2015,Development,Defect,12/12/2015 20:52,12/12/2015,Build & Configuration Related Issue
+51,Closed,PI&C: Update Search Results,3,24/9/2015,Development,Defect,7/12/2015 8:22,9/10/2015,Build & Configuration Related Issue
+52,Closed,PI&C: Link to Original Opportunity is Missing,3,24/9/2015,Development,Defect,7/12/2015 10:18,7/12/2015,Coding Issue
+53,Closed,PI&C: Family Members - How will we list them?,3,24/9/2015,Development,Defect,12/12/2015 20:47,12/12/2015,Build & Configuration Related Issue
+54,Closed,PI&C: Field Changes,3,24/9/2015,Development,Defect,7/12/2015 10:18,7/12/2015,Coding Issue
+55,Closed,PI&C: Updates to Payments,3,25/9/2015,Development,Defect,16/12/2015 19:16,16/12/2015,Coding Issue
+56,Closed,PI&C: Changes to the Contact Info,3,25/9/2015,Development,Defect,7/12/2015 8:24,9/10/2015,Design Issue
+57,Closed,PI&C: Policies to Enter in SF,3,25/9/2015,Development,Defect,7/12/2015 10:19,7/12/2015,Coding Issue
+58,Closed,PI&C: Permission Error on Add Attachment,3,25/9/2015,Development,Defect,7/12/2015 10:21,7/12/2015,Coding Issue
+59,Closed,PI&C: I no longer see the Automated Approval History,3,28/9/2015,Development,Defect,7/12/2015 10:22,7/12/2015,Coding Issue
+60,Closed,PI&C: Global Search Not Returning Results,2,28/9/2015,Development,Defect,16/12/2015 14:28,9/10/2015,Environment Issue
+61,Closed,PI&C: Policy Edit - Not all Fields Should be Editable,3,28/9/2015,Development,Defect,7/12/2015 10:22,7/12/2015,Coding Issue
+62,Closed,PI&C: Remove buttons from Contact Details,3,1/10/2015,Development,Defect,7/12/2015 10:24,7/12/2015,Build & Configuration Related Issue
+63,Closed,PI&C: Please Remove the Edit/Clone buttons from the Benefit Breakdown screens,3,6/10/2015,Development,Defect,16/12/2015 19:15,16/12/2015,Design Issue
+64,Closed,PI&C: Update Benefit Breakdown Object Name,3,6/10/2015,Development,Defect,7/12/2015 10:25,7/12/2015,Coding Issue
+65,Closed,[TM3_Product_Module_Clarification] Sync Failure on Premium Adjustments in SIT,1,11/10/2015,Test/SIT,Defect,1/11/2015 22:00,2/11/2015,Database Issue
+66,Closed,[TM3_Product_Module] The field type mentioned in the requirement does not match with that of the application.,3,12/10/2015,Test/SIT,Defect,15/10/2015 4:17,15/10/2015,Requirement Issue - Inadequate/Missing Requirement
+67,Closed,"TM3_Product_Module : Effective date and Expiry Date field not found in ""New Med Question Section"" page.",2,12/10/2015,Test/SIT,Defect,16/10/2015 0:06,16/10/2015,Requirement Issue - Change in Requirement
+68,Closed,"[TM3_Product_Module] The Calendar Year in the EffectiveDate,InceptionDate and ExpiryDate fields are not showing full date range in the eligibility Quallifier screen.",3,12/10/2015,Test/SIT,Defect,26/10/2015 11:33,26/10/2015,Requirement Issue - Ambiguous/Unclear Requirement
+69,Closed,[TM3_Product_Module] Age calculation type field in Eligibility Qualifier screen is not showing 'None' as the default value.,3,12/10/2015,Test/SIT,Defect,15/10/2015 4:26,15/10/2015,Requirement Issue - Change in Requirement
+70,Closed,[TM3_Product_Module] Premium Adjustment_Mandatory fields mismatch.,2,12/10/2015,Test/SIT,Defect,15/10/2015 23:12,16/10/2015,Requirement Issue - Change in Requirement
+71,Closed,[TM3_Product_Module_Clarification] The Family Maximum Age field when given an age less than the medical questionaire Age in eligibility qualifier screen gives an error message.,3,12/10/2015,Test/SIT,Defect,28/10/2015 12:37,23/10/2015,Requirement Issue - Change in Requirement
+72,Closed,[TM3_Product_Module] Earliest purchase days value when set up greater than the latest purchase days field the system does not give an error message.,3,12/10/2015,Test/SIT,Defect,14/10/2015 5:52,14/10/2015,Test Plan issue - Invalid Test Case
+73,Closed,[TM3_Product_Module] : Duplicate Entries in Program table,3,12/10/2015,Test/SIT,Defect,26/10/2015 14:19,26/10/2015,Coding Issue
+74,Closed,[TM3_Product_Module] : Discrepancy in System Information on Program and Account screens,3,12/10/2015,Test/SIT,Defect,6/11/2015 14:29,6/11/2015,Coding Issue
+75,Closed,[TM3_Product_Module] : Spelling needs to be corrected in the context sensitive help on Medical Questions Section screen,4,12/10/2015,Test/SIT,Defect,15/10/2015 6:40,15/10/2015,Build & Configuration Related Issue
+76,Closed,"[TM3_Product_Module] : Upon clicking on ""New"" button, Cursor moves to ""Rate Percent"" text box field instead of ""Province"" field.",4,12/10/2015,Test/SIT,Defect,29/10/2015 3:52,29/10/2015,Requirement Issue - Change in Requirement
+77,Closed,"[TM3_Product_Module] "" Benefit Offering "" screen_Date fields missing.",2,12/10/2015,Test/SIT,Defect,13/10/2015 23:27,14/10/2015,Requirement Issue - Inadequate/Missing Requirement
+78,Closed,[TM3_Product_Module] - User is able to set up Same Tax Rate percentage for a combination of Province and Coverage Tax Type  .,2,13/10/2015,Test/SIT,Defect,16/10/2015 2:38,16/10/2015,Requirement Issue - Change in Requirement
+79,Closed,"[TM3_Product_Module] : Requirement mismatch with Application. Tax ""Effective Date"" get displayed as Mandatory field.",4,13/10/2015,Test/SIT,Defect,16/10/2015 0:08,16/10/2015,Requirement Issue - Inadequate/Missing Requirement
+80,Closed,[TM3_Product_Module] The data is not getting saved in TRIP database when a new record is added after deleting the same record.,2,13/10/2015,Test/SIT,Defect,29/10/2015 0:12,29/10/2015,Coding Issue
+81,Closed,[TM3_Product_Module] Global Search not retrieving results.,3,12/10/2015,Test/SIT,Watch List,16/11/2015 10:40,16/11/2015,Coding Issue
+82,Closed,[TM3_Product_Module] Global Search retrieving irrelevant results.,3,13/10/2015,Test/SIT,Defect,26/10/2015 11:34,26/10/2015,Requirement Issue - Ambiguous/Unclear Requirement
+83,Closed,[TM3_Product_Setup] Unable to connect product with a Benefit Offering in product Benefit offering section.,2,13/10/2015,Test/SIT,Defect,29/10/2015 4:46,29/10/2015,Testing Issue - User Error
+84,Closed,[TM3_Product_Module] Global search not working for French,2,13/10/2015,Test/SIT,Watch List,12/11/2015 21:21,13/11/2015,Environment Issue
+85,Closed,"[TM3_Product_Module] ""Back to List"" option is Not available in the page",3,14/10/2015,Test/SIT,Watch List,16/11/2015 7:14,16/11/2015,Testing Issue - Incorrect or Lack of Understanding of Rqmt
+86,Closed,[TM3_Product_Module] The inception date column is showing as enabled for future versions of the product.,3,13/10/2015,Test/SIT,Defect,29/10/2015 4:43,29/10/2015,Requirement Issue - Change in Requirement
+87,Closed,"[TM3_Product_Module] : Without clicking on Sync Button, Validation field is getting Displayed as ""Passed"" on Edit a ProductClass",2,14/10/2015,Test/SIT,Defect,26/10/2015 1:12,26/10/2015,Coding Issue
+88,Closed,[TM3_Product_Module] The termination run off days column is not disabled when the expiry date column is set to Null,3,14/10/2015,Test/SIT,Defect,29/10/2015 4:43,29/10/2015,Requirement Issue - Change in Requirement
+89,Closed,[TM3_Product_Module] Search functionality,3,14/10/2015,Test/SIT,Defect,19/10/2015 1:39,19/10/2015,Environment Issue
+90,Closed,[TM3_Product_Module]If the user attempts to set up the same Product (same Product code and status = ?New?) the system does not display the following message: ?This Product <Product code> already exists.?,3,14/10/2015,Test/SIT,Defect,26/10/2015 5:32,26/10/2015,Requirement Issue - Change in Requirement
+91,Closed,"[TM3_Product_Module] : Edit being Saved and Synced for ""Inactive"" or ""Closed"" products",2,14/10/2015,Test/SIT,Defect,17/11/2015 12:46,17/11/2015,Build & Configuration Related Issue
+92,Closed,"[TM3_Product_Module] The Application gives a ""Workflow Action Failed to trigger a flow"" error while setting up a product translation",2,14/10/2015,Test/SIT,Defect,3/11/2015 22:56,4/11/2015,Build & Configuration Related Issue
+93,Closed,[TM3_Product_Module]  The default value in the translated field is set to 'NONE' whereas the default value is Product name in the requirement for Product translation page,3,14/10/2015,Test/SIT,Defect,26/10/2015 5:32,26/10/2015,Build & Configuration Related Issue
+94,Closed,[Watchlist TM3_Product_Module] : I/O Exception while sync operation for New Program. Record is still saved in TRIP DB,4,14/10/2015,Test/SIT,Watch List,27/12/2015 15:45,27/12/2015,Environment Issue
+95,Closed,[TM3_Product_Module] : Decimal values in ?Deductible? field is not getting saved in TRIP Application and Database,3,15/10/2015,Test/SIT,Watch List,26/10/2015 0:09,26/10/2015,Build & Configuration Related Issue
+96,Closed,[TM3_Product_Module] : Multiple editable fields for a Product in 'Active' status,2,15/10/2015,Test/SIT,Defect,7/12/2015 5:18,29/10/2015,Build & Configuration Related Issue
+97,Closed,[TM3_Product_Module] All the benefit offering setup is not getting displayed in the lookup when a benefit offering is searched from the Benefit offering field in the Product benefit Offering screen.,3,15/10/2015,Test/SIT,Defect,26/10/2015 5:32,26/10/2015,Environment Issue
+98,Closed,[TM3_Product_Module] - Multiple users are allowed to edit Product simultaneously,2,15/10/2015,Test/SIT,Defect,7/12/2015 5:18,16/10/2015,Environment Issue
+99,Closed,[TM3_Product_Module] :Error shown on editing Premium Adjustment,3,15/10/2015,Test/SIT,Defect,29/10/2015 10:42,29/10/2015,Build & Configuration Related Issue
+100,Closed,[TM3_Product_Module] 'Status' field is not showing as mandatory field for Product,3,15/10/2015,Test/SIT,Defect,7/12/2015 5:18,4/11/2015,Build & Configuration Related Issue
+101,Closed,"[TM3_Product_Module] : ""Premium Adjustment Translation"" screen fields.",3,15/10/2015,Test/SIT,Defect,19/10/2015 0:11,19/10/2015,Requirement Issue - Change in Requirement
+102,Closed,"[TM3_Product_Module] : Upon clicking Sync button, updated data is not getting reflected in TRIP Database for Product Object.",1,15/10/2015,Test/SIT,Defect,12/11/2015 23:48,13/11/2015,Design Issue
+103,Closed,[TM3_Product_Module] Unable to Edit a Product- showing similar Error message for every change,1,15/10/2015,Test/SIT,Defect,7/12/2015 5:18,26/10/2015,Coding Issue
+104,Closed,[TM3_Product_Module] Mismatch in bahaviour of two varchar fields in Product Class page,3,15/10/2015,Test/SIT,Defect,7/12/2015 5:18,20/10/2015,Coding Issue
+105,Closed,[TM3_Product_Module] The Benefit offering when set up second time for a particular product gives an exception,2,16/10/2015,Test/SIT,Watch List,3/11/2015 23:37,4/11/2015,Coding Issue
+106,Closed,[TM3_Product_Module] :There should be one Back button available in every Object in TRIP Application.,3,16/10/2015,Test/SIT,Watch List,7/12/2015 5:24,20/10/2015,Coding Issue
+107,Closed,"[TM3_Product_Module] When multiple mandatory benefit offering with BO TYPE as medical,non medical,non taxable is set up the BO type is set to non medical whereas the status should be Combo",3,16/10/2015,Test/SIT,Defect,29/10/2015 4:43,29/10/2015,Requirement Issue - Change in Requirement
+108,Closed,"[TM3_Product_Module] : Assistance and Claim Indicator fields in TPA_Program table are always ""0""",2,16/10/2015,Test/SIT,Defect,7/12/2015 5:24,26/10/2015,Requirement Issue - Change in Requirement
+109,Closed,"[TM3_Product_Module] : ""Foreign Key constraint violation on Delete"" error is displayed on syncing Benefit Offerings after creating New Product Allocation",2,16/10/2015,Test/SIT,Defect,12/11/2015 10:23,12/11/2015,Coding Issue
+110,Closed,[TM3_Product_Module] : Benefit Offering error message not correct,4,16/10/2015,Development,Defect,12/11/2015 21:13,13/11/2015,Coding Issue
+111,Deferred,[TM3_Product_Module] : FK constraints violation during sync,3,20/10/2015,Test/SIT,Defect,7/12/2015 13:12,13/11/2015,Coding Issue
+112,Open,[TM3_Product_Module] : Product allocation duplicated during sync,3,20/10/2015,Development,Watch List,12/11/2015 21:05,,
+113,Closed,[TM3_Product_Module]: Premium Adjustment - TC-01 has not pass validation. error during sync of an Benefit Offering Detail,3,21/10/2015,Test/SIT,Defect,7/12/2015 5:30,27/10/2015,Test Plan issue - Invalid Test Case
+114,Closed,[TM3 Product Module] : Product Benefit Offering error message,3,21/10/2015,Development,Defect,13/11/2015 10:51,13/11/2015,Requirement Issue - Change in Requirement
+115,Closed,PI&C: Please Remove Notes from all Asset and Opportunity Screens,3,22/10/2015,Development,Defect,7/12/2015 10:26,7/12/2015,Coding Issue
+116,Closed,PI&C: Clone Button,3,22/10/2015,Development,Defect,7/12/2015 10:25,7/12/2015,Coding Issue
+117,Closed,PI&C: Payment Details Page - PCI Button,3,22/10/2015,Development,Defect,7/12/2015 10:39,7/12/2015,Coding Issue
+118,Closed,[TM3_Product_Module] : Minimum Age unit is not considered during validation in Eligibility Qualifiers,2,23/10/2015,Test/SIT,Defect,6/11/2015 14:18,6/11/2015,Coding Issue
+119,Closed,[TM3_Product_Module] : Unable to save new premium adjustment details with Past effective date.,2,25/10/2015,Test/SIT,Defect,29/10/2015 4:00,29/10/2015,Build & Configuration Related Issue
+120,Closed,[TM3_Product_Module] Traveller type cannot be added to a product having effective date as today's date.,3,26/10/2015,Test/SIT,Defect,7/12/2015 5:22,29/10/2015,Build & Configuration Related Issue
+121,Closed,[TM3_Product_Module] Change history is not being updated in Salesforce History section,2,26/10/2015,Test/SIT,Defect,7/12/2015 5:21,18/11/2015,Build & Configuration Related Issue
+122,Closed,[TM3_Product_Module] : Clone button is not visible for Accounts and Product Allocations object in TRIP Application,3,25/10/2015,Test/SIT,Defect,29/10/2015 4:37,29/10/2015,Requirement Issue - Change in Requirement
+123,Closed,[TM3_Product_Module] Benefit Offering name is allowing more than 50 characters,3,27/10/2015,Test/SIT,Defect,7/12/2015 5:19,10/11/2015,Requirement Issue - Change in Requirement
+124,Closed,[TM3_Product_Module] The account translation fields when edited is not getting reflected in the account history screen.,2,26/10/2015,Test/SIT,Defect,18/11/2015 23:18,19/11/2015,Build & Configuration Related Issue
+125,Closed,[TM3_Product_Module] Showing Exception error on clickingb Sync button in Benefit Offering screen,2,27/10/2015,Test/SIT,Defect,7/12/2015 5:19,4/11/2015,Database Issue
+126,Closed,[TM3_Product_Module] Inception Date should not be greater than Effective Date for a New product,2,27/10/2015,Test/SIT,Defect,7/12/2015 5:19,18/11/2015,Build & Configuration Related Issue
+127,Closed,[TM3_Product_Module] There is no contract and contract line item table in database where the data should be stored after a contract or a contract line item is edited in salesforce.,3,27/10/2015,Test/SIT,Watch List,7/12/2015 13:42,7/12/2015,Build & Configuration Related Issue
+128,Closed,[TM3_Product_Module] The Audit history section does not appear in the Multitripduration section,3,27/10/2015,Test/SIT,Defect,4/11/2015 3:39,4/11/2015,Build & Configuration Related Issue
+129,Closed,[TM3_Product_Module] 'Account Name' field is disabled in Contract screen,3,28/10/2015,Test/SIT,Defect,7/12/2015 5:19,29/10/2015,Requirement Issue - Inadequate/Missing Requirement
+130,Closed,[TM3_Product_Module] : Cascade Delete Functionality_Receiving SOAP fault error message while deleting a Benefit Offering with a product allocation.,3,29/10/2015,Test/SIT,Defect,13/11/2015 8:58,13/11/2015,Coding Issue
+131,Closed,[TM3_Product_Module] Unable to set up historical data as System does not accept Expiry date that is less than system date,1,30/10/2015,Test/SIT,Defect,7/12/2015 5:22,4/11/2015,Requirement Issue - Change in Requirement
+132,Closed,[TM3_Product_Module] Lookup is not showing all the data set up done by other users,3,30/10/2015,Test/SIT,Defect,7/12/2015 5:21,2/11/2015,Coding Issue
+133,Closed,[TM3_Product_Module] : Clone Funtionality Defect - User is able to setup  same Rate category for selected Product_BenefitOffering,3,30/10/2015,Test/SIT,Defect,3/11/2015 22:59,4/11/2015,Requirement Issue - Inadequate/Missing Requirement
+134,Closed,[TM3_Product_Module]] Sync Error for New Program Translation,2,30/10/2015,Test/SIT,Defect,7/12/2015 5:21,2/11/2015,Coding Issue
+135,Closed,[TM3_Product_Module] : Requirement Defect - PROD01-FR341 - Delete button must be enabled for <Entity Name>,3,30/10/2015,Test/SIT,Defect,6/11/2015 15:04,6/11/2015,Requirement Issue - Ambiguous/Unclear Requirement
+136,Deferred,Incorrect language handling in some service calls,3,1/11/2015,Development,Defect,12/11/2015 14:08,12/11/2015,Coding Issue
+137,Closed,"[TM3_Product_Module] : ""Toll Free Number"" and ""Collect to Canada Number"" is getting displayed as Mandatory Field which does not satisfy requirement",3,1/11/2015,Test/SIT,Defect,12/11/2015 10:45,12/11/2015,Build & Configuration Related Issue
+138,Closed,[TM3_Product_Module] : Error Message displayed in TRIP Application is not matching with Requirement while adding one Benefit offering with a Product.,3,1/11/2015,Test/SIT,Defect,12/11/2015 10:16,12/11/2015,Requirement Issue - Change in Requirement
+139,Closed,[TM3_Product_Module]: Product Allocation Category name does not get displayed properly in Error Message,3,1/11/2015,Test/SIT,Defect,12/11/2015 22:45,13/11/2015,Coding Issue
+140,Closed,[TM3_Product_Module]Effective Date should Not be a mandatory field in Product Benefit Offering page,4,2/11/2015,Test/SIT,Defect,7/12/2015 5:22,4/11/2015,Requirement Issue - Change in Requirement
+141,Closed,[TM3_Product_Module] : Program Short Name is getting displayed instead of Program Name in Error message while creating new Program with existing Program details,3,2/11/2015,Test/SIT,Defect,12/11/2015 23:07,13/11/2015,Requirement Issue - Change in Requirement
+142,Closed,[TM3_Product_Module] : Error shown on saving Edit to Premium Adjustment Translation,2,2/11/2015,Test/SIT,Defect,3/11/2015 22:50,4/11/2015,Build & Configuration Related Issue
+143,Closed,"[TM3_Product_Module] : ""Record Type"" field missing in Product Translation",2,2/11/2015,Test/SIT,Defect,6/11/2015 15:05,6/11/2015,Requirement Issue - Change in Requirement
+144,Closed,"[TM3 Product Module] : Eligibility Qualifiers :  Error message thrown on Family Max age, even when it is between Min and Max age",2,2/11/2015,Development,Defect,6/11/2015 14:27,6/11/2015,Coding Issue
+145,Closed,[TM3_Product_Module] : Disconnect Functionality needs to be detailed in Product Specification Doc,3,2/11/2015,Test/SIT,Defect,7/12/2015 5:17,13/11/2015,Requirement Issue - Ambiguous/Unclear Requirement
+146,Closed,[TM3_Product_Module] The contract field in the contract line item screen is enabled when an account is connected to a program via a contract but in requirement its mentioned as disabled.,3,3/11/2015,Test/SIT,Defect,6/11/2015 15:05,6/11/2015,Requirement Issue - Change in Requirement
+147,Duplicate,[TM3_Product_Module] The assistance and claim indicator when set in an account is not getting reflected in program.TPA_program table in the database.,3,3/11/2015,Test/SIT,Defect,3/11/2015 4:54,3/11/2015,Requirement Issue - Change in Requirement
+148,Closed,[TM3_Product_Module] There is no 'Product Programs? section displayed in the products page.,3,3/11/2015,Test/SIT,Defect,6/11/2015 15:05,6/11/2015,Requirement Issue - Change in Requirement
+149,Closed,[TM3_Product_Module] The 'Program' field is not disabled in the product program screen as mentioned in requirement PROD01-FR0169,3,3/11/2015,Test/SIT,Defect,16/11/2015 8:12,16/11/2015,Architecture Issue
+150,Closed,[TM3_Product_Module]: Syncing with back end not invoked on product allocation updates,2,3/11/2015,Test/SIT,Defect,13/11/2015 0:35,13/11/2015,Build & Configuration Related Issue
+151,Closed,[TM3_Product_Module]: Audit timestamps in TRIP database on delete,3,3/11/2015,Test/SIT,Defect,13/11/2015 9:13,13/11/2015,Coding Issue
+152,Closed,[TM3_Product_Module]: Sync data with the deleted entry never synced to the TRIP database,2,3/11/2015,Test/SIT,Defect,13/11/2015 11:49,13/11/2015,Coding Issue
+153,Closed,[TM3_Product_Module]: Missing product allocation coverage type,3,3/11/2015,Test/SIT,Defect,12/11/2015 8:53,12/11/2015,Build & Configuration Related Issue
+154,Closed,[TM3_Product_Module] When a second  benefit offering is edited from mandatory to non mandatory in a product the system gives an error message during sync.,3,4/11/2015,Test/SIT,Defect,16/11/2015 7:18,16/11/2015,Build & Configuration Related Issue
+155,Closed,[TM3_Product_Module] Unable to add Benefit Offering with a Product in 'New' status,2,4/11/2015,Test/SIT,Defect,7/12/2015 5:17,16/11/2015,Build & Configuration Related Issue
+156,Closed,[TM3_Product_Module] The change history is not getting reflected in Poduct Allocation categoryscreen.,3,4/11/2015,Test/SIT,Defect,12/11/2015 11:21,12/11/2015,Build & Configuration Related Issue
+157,Duplicate,"[TM3_Product_Module] Error message is Not correct when ""Benefit Offering is Mandatory"" field is unchecked",4,4/11/2015,Test/SIT,Defect,7/12/2015 5:17,4/11/2015,Testing Issue - User Error
+158,Closed,[TM3_Product_Module] Sytem is showing error message while trying to edit a benefit offering associated with product,2,4/11/2015,Test/SIT,Defect,7/12/2015 5:17,16/11/2015,Build & Configuration Related Issue
+159,Closed,[TM3_Product_Module] The Sync button is not present in the region availability screen and the records are not getting saved in the database,3,4/11/2015,Test/SIT,Defect,16/11/2015 10:35,16/11/2015,Build & Configuration Related Issue
+160,Closed,[TM3_Migration] : Data mismatch in stg.WynsureProductIntermediate table and WYNSURE UAT,2,4/11/2015,Development,Defect,27/12/2015 15:47,27/12/2015,Coding Issue
+161,Closed,[TM3_Product] Grammatical error in Error message,4,5/11/2015,Test/SIT,Defect,7/12/2015 5:16,12/11/2015,Coding Issue
+162,Closed,"[TM3_Migration] : Collapsing Logic on ""Base"" column need to be investigated",2,5/11/2015,Development,Defect,13/1/2016 6:14,13/1/2016,Design Issue
+163,Closed,[TM3_Migration] : Tax is zero in staging tables for all the records,2,5/11/2015,Development,Defect,27/12/2015 15:48,27/12/2015,Coding Issue
+164,Closed,[TM3_Product_Module] : Unable to sync Product because of Family Max Age error,2,5/11/2015,Test/SIT,Defect,12/11/2015 23:35,13/11/2015,Coding Issue
+165,Closed,[TM3_Product_Module] Clarification_Eligibility Qualifier Delete,3,5/11/2015,Test/SIT,Defect,12/11/2015 9:03,12/11/2015,Requirement Issue - Inadequate/Missing Requirement
+166,Closed,[TM3_Product_Module] When the product allocation category is deleted the system gives an error message when the data is synced,3,6/11/2015,Test/SIT,Defect,7/12/2015 5:21,12/11/2015,Test Data Issue - Insufficient Test Data
+167,Closed,"[TM3_Product_Module] : ""Sync_Issue""  - User is unable to Add Product allocation with Benefit offering . Upon clicking on Sync button, getting following error message.",2,6/11/2015,Test/SIT,Defect,12/11/2015 14:04,12/11/2015,Coding Issue
+168,Closed,[TM3_Product_Module] where an user tries to add the same account twice having the short name and account name same as before;the system does not display any error message,3,6/11/2015,Test/SIT,Watch List,16/11/2015 7:19,16/11/2015,Build & Configuration Related Issue
+169,Closed,[TM3_Product Module] Discrepencies found in Validation Rules for Med Question Section Mapper,2,7/11/2015,Test/SIT,Defect,7/12/2015 5:16,4/12/2015,Requirement Issue - Change in Requirement
+170,Closed,[TM3_Product_Module] : Changes are not getting reflected in TRIP DB as Validation rules,2,7/11/2015,Test/SIT,Defect,18/11/2015 4:18,18/11/2015,Architecture Issue
+171,Closed,[TM3_Product Module] Discrepencies found in Validation Rules for Product,3,9/11/2015,Test/SIT,Defect,7/12/2015 5:16,19/11/2015,Requirement Issue - Change in Requirement
+172,Closed,"[TM3_Product Module] : Contract Line Item : Leading ""1"" is not diaplyed for Toll Free and Collect to Canada phone numbers",3,10/11/2015,Test/SIT,Defect,7/12/2015 5:16,16/11/2015,Requirement Issue - Change in Requirement
+173,Closed,[TM3_Product Module] : Premium Adjustments : Only Latest entry gets saved to DB after sync,2,10/11/2015,Test/SIT,Defect,7/12/2015 5:16,16/11/2015,Design Issue
+174,Open,[TM3_Product_Module] : Sync Issue on saving a Product Allocation to a Benefit Offering,3,11/11/2015,Test/SIT,Watch List,3/12/2015 12:53,,
+175,Closed,[TM3_Product_Module] : We cannot do Save on any object with Translation/language support,1,11/11/2015,Test/SIT,Defect,12/11/2015 23:59,13/11/2015,Coding Issue
+176,Closed,[TM3_Product_Module] : Parent and child object sync status is not alligned,3,11/11/2015,Test/SIT,Defect,23/11/2015 13:16,23/11/2015,Coding Issue
+177,Closed,[TM3_Product_Module] : Benefit Offering Name is not fully visible while creating New associations,3,13/11/2015,Test/SIT,Defect,16/11/2015 7:30,16/11/2015,Build & Configuration Related Issue
+178,Closed,[TM3_Product_Module] The system gives an error message when the premium adjustment is deleted and synced.,3,16/11/2015,Test/SIT,Defect,23/11/2015 13:26,23/11/2015,Coding Issue
+179,Closed,"[TM3_Product_Module]: User is not able to Delete ""Already deleted Product Allocation category"" from Benefit offering.Upon Clicking on Sync Button,System is showing following error message: ""External ID value is not valid""",1,16/11/2015,Test/SIT,Defect,16/11/2015 10:48,16/11/2015,Coding Issue
+180,Closed,"[TM3_Product_Module] : System should restrict User while connecting  ""Already deleted Product Allcation category"" with Benefit offering",2,16/11/2015,Test/SIT,Defect,16/11/2015 10:49,16/11/2015,Coding Issue
+181,Closed,[TM3_Product_Module] : all Duplicate Product Allocation Category name does not get displayed in Error Message,3,16/11/2015,Test/SIT,Defect,16/11/2015 10:50,16/11/2015,Coding Issue
+182,Closed,[TM3_Product_Module] :Date format mismatch for all Calendar Fields available in Salesforce.Displayed in DD/MM/YYYY format instead of MM/DD/YYYY,2,16/11/2015,Test/SIT,Defect,24/11/2015 11:22,24/11/2015,Build & Configuration Related Issue
+183,Deferred,[TM3_Q&I] : Correspondence changes for TM4,4,16/11/2015,Development,Watch List,10/12/2015 8:47,16/11/2015,Design Issue
+184,Fixed,[Watchlist TM3_Product_Module] When a contract line item is deleted from a Program the details are not getting deleted from the database.,3,17/11/2015,Test/SIT,Watch List,27/12/2015 15:51,,Database Issue
+185,Closed,[TM3_Product_Module] Unable to Save,1,23/11/2015,Test/SIT,Defect,23/11/2015 14:46,23/11/2015,Build & Configuration Related Issue
+186,Closed,"[TM3_Product Module] : ""Web service callout failed: ..."" error for OCM - Trip Cancellation and Interruption",1,24/11/2015,Test/SIT,Defect,7/12/2015 5:16,4/12/2015,Database Issue
+187,Closed,[TM3_Product Module] : VTC - Trip Interruption Feature is not available,2,24/11/2015,Test/SIT,Defect,14/12/2015 0:28,14/12/2015,Build & Configuration Related Issue
+188,Closed,[TM3_Q&I_COPY] Step 2 - The contents in the Quote progress bar is not matching with the requirements.,3,25/11/2015,Test/SIT,Defect,13/1/2016 23:31,14/1/2016,Coding Issue
+189,Closed,"[TM3_Q&I_Smoke]When continue to application link is clicked from the ""Thank You"" page the page keeps on loading and does not get displayed.",2,25/11/2015,Test/SIT,Defect,10/12/2015 23:01,11/12/2015,Coding Issue
+190,Closed,[TM3_Q&I_Smoke Testing] Incorrect warning message is getting displayed when user edits a plan in the 'Select a plan' screen,3,25/11/2015,Test/SIT,Defect,30/11/2015 13:36,30/11/2015,Build & Configuration Related Issue
+191,Closed,[TM3_Q&I_Smoke_Old_URL] When the url is entered in the browser for B2C and LIA after pressing enter a distorted page is getting displayed which stays there for a fraction of second.,3,25/11/2015,Test/SIT,Defect,12/12/2015 21:08,12/12/2015,Build & Configuration Related Issue
+192,Closed,[TM3_Q&I_UX] Cosmetic issue in the Home screen,3,25/11/2015,Test/SIT,Defect,11/12/2015 11:23,11/12/2015,Build & Configuration Related Issue
+193,Closed,"[TM3_Q&I_Module] :  For all plans ""0"" Premium is displayed without any error message",1,25/11/2015,Test/SIT,Defect,8/12/2015 12:39,8/12/2015,Coding Issue
+194,Closed,[TM3_Product Module]  - MQ Section : Fields are not as per spec doc,3,26/11/2015,Test/SIT,Defect,7/12/2015 5:15,3/12/2015,Requirement Issue - Change in Requirement
+195,Closed,[TM3_Product_Module] :Web service callout failed while sync Travel Location,2,26/11/2015,Test/SIT,Defect,3/12/2015 11:56,3/12/2015,Environment Issue
+196,Closed,"[TM3_Q&I_Smoke] When Multi Trip is selected for Travelling Canadians the select your Trip duration dropdown is not getting displayed,.",2,26/11/2015,Test/SIT,Defect,11/12/2015 11:18,11/12/2015,Coding Issue
+197,Closed,[TM3_Q&I]: Issued Policies are not Visible as Assets in TRIP,3,26/11/2015,Test/SIT,Defect,15/12/2015 21:20,16/12/2015,Coding Issue
+198,Closed,[TM3_Q&I_UX]: Top Date/Time and bottom banner is getting overlapped with screen content on the Home page for LIA url,3,27/11/2015,Test/SIT,Defect,11/12/2015 11:14,11/12/2015,Environment Issue
+199,Closed,[TM3_Q&I_Old_URL] : Premium shown as 0 when medical questionnaire is answered to select a plan.,2,27/11/2015,Test/SIT,Defect,13/12/2015 21:36,14/12/2015,Build & Configuration Related Issue
+200,Closed,"[TM3_Q&I_Old_URL]: Truncated values are getting displayed in the 'Plan Detail' section under ""Ready to Apply"" screen",3,27/11/2015,Test/SIT,Defect,13/12/2015 16:19,13/12/2015,Build & Configuration Related Issue
+201,Rejected,[TM3_Q&I] An extra section appears at the top of the applicant details page.,3,27/11/2015,Test/SIT,Defect,11/12/2015 15:28,11/12/2015,Testing Issue - User Error
+202,Closed,"[TM3_Q&I_UX]: Traveller image is not getting displayed in the ""Pick a plan"" screen",3,27/11/2015,Test/SIT,Defect,13/12/2015 18:59,13/12/2015,Environment Issue
+203,Closed,[TM3_Q&I_UX]: None of the images are getting displayed in the home screen and a vertical line is present on the screen,3,27/11/2015,Test/SIT,Defect,11/12/2015 11:08,11/12/2015,Environment Issue
+204,Closed,[TM3_Q&I_UX]: After clicking on the unaccessible images on the home page unexpected error message is getting displayed,3,27/11/2015,Test/SIT,Defect,13/12/2015 23:04,14/12/2015,Test Plan issue - Invalid Test Case
+205,Closed,[TM3_Q&I_Age]The maximum age in STEM plan is 149 as per the product config document but as per the application the maximum age allowed is 120,3,27/11/2015,Test/SIT,Defect,29/12/2015 23:00,30/12/2015,Coding Issue
+206,Closed,[TM3_Q&I]: After selecting an option in 'Need help to choose' section and click on the 'Next' button system displays error message and user is not able to proceed to the next screen,2,27/11/2015,Test/SIT,Defect,13/12/2015 23:00,14/12/2015,Build & Configuration Related Issue
+207,Duplicate,[TM3_Q&I_Browser_UX]: In safari browser the first page of B2C site is not aligned properly and distorted,3,27/11/2015,Test/SIT,Defect,7/1/2016 23:04,8/1/2016,Environment Issue
+208,Closed,[TM3_Q&I_Old_URL] Not able to navigate further after entering applicant details,2,27/11/2015,Test/SIT,Defect,13/12/2015 23:06,14/12/2015,Build & Configuration Related Issue
+209,Closed,[TM3_Q&I_Premium] The system does not accept the Travel companion Savings while calculating the rates.,2,27/11/2015,Test/SIT,Defect,13/12/2015 22:40,14/12/2015,Build & Configuration Related Issue
+210,Closed,[TM3_Q&I_Premium] : Premium shown is the same for Age 59 and Age 69.,2,27/11/2015,Test/SIT,Defect,13/12/2015 21:42,14/12/2015,Build & Configuration Related Issue
+211,Closed,"[TM3_Q&I_Old_URL]: User is not able to complete the payment, an error message is getting displayed for LIA site in Google Chrome and Mozila",2,27/11/2015,Test/SIT,Defect,14/12/2015 1:13,14/12/2015,Build & Configuration Related Issue
+212,Closed,[TM3_Q&I]The policy number is not getting generated after the Policy is issued.,1,27/11/2015,Test/SIT,Defect,9/12/2015 5:00,9/12/2015,Coding Issue
+213,Closed,"[TM3_Q&I_Old_URL] Trip Amount is not being displayed on clicking Calculate button, even not after plan selection",2,27/11/2015,Test/SIT,Defect,13/12/2015 17:52,13/12/2015,Build & Configuration Related Issue
+214,Reopen,[TM3_Q&I_Browser]: User is not able to select any plan from the drop down hence not able to proceed with quote and issue a policy in safari browser,4,27/11/2015,Test/SIT,Defect,16/1/2016 15:50,,Build & Configuration Related Issue
+215,Closed,[TM3_Q&I_UX] Step 4 - The phone number field accepts alphabets and special characters in the Application details page,4,27/11/2015,Test/SIT,Defect,22/12/2015 22:28,23/12/2015,Coding Issue
+216,Closed,[TM3_Q&I_BackDate]  Backdate of School Start and Departure Date needed,3,27/11/2015,Development,Defect,15/12/2015 2:01,15/12/2015,Coding Issue
+217,Closed,[TM3_Q&I_BackDate]  LIA cannot backdate purchase date,3,27/11/2015,Development,Defect,22/12/2015 22:22,23/12/2015,Build & Configuration Related Issue
+218,Closed,[TM3_Q&I]  Step 1 - Order of Plans in Plan selection dropdown,4,27/11/2015,Development,Defect,13/1/2016 23:51,14/1/2016,Build & Configuration Related Issue
+219,Closed,[TM3_Q&I] : Premium calculation error in VTC,1,30/11/2015,Test/SIT,Defect,10/12/2015 6:53,10/12/2015,Coding Issue
+220,Closed,[TM3_Q&I] Province look up is not displaying the linked address,1,30/11/2015,Test/SIT,Defect,15/12/2015 4:56,15/12/2015,Coding Issue
+221,Closed,[TM3_Q&I_UX]  Step 1 - Default DOB,4,30/11/2015,Development,Defect,29/12/2015 12:14,29/12/2015,Build & Configuration Related Issue
+222,Rejected,[TM3_Q&I_UX]  Underwritten by footer,2,30/11/2015,Development,Defect,10/12/2015 22:31,11/12/2015,Requirement Issue - Change in Requirement
+223,Deferred,[TM3_Q&I] Step 4 -  Split Payment option where one plan / one insured,4,30/11/2015,Development,Watch List,23/12/2015 22:15,24/12/2015,Build & Configuration Related Issue
+224,Open,[TM3_Q&I]  Step 4 - Communication Method and home address,4,30/11/2015,Development,Watch List,11/1/2016 12:33,,
+225,Closed,[TM3_Q&I]: 'LIA Save Quote' section is getting displayed in the B2C site under 'Ready to apply' screen which is expected in LIA site not in B2C site,2,30/11/2015,Test/SIT,Defect,9/12/2015 22:05,10/12/2015,Build & Configuration Related Issue
+226,Closed,[TM3_Q&I_UX]: Step 4 - Selected 'province' field (non-editable) is disdplaying as drop down in the 'Contact Information' section under 'Ready to Apply' screen,4,30/11/2015,Test/SIT,Defect,24/12/2015 11:05,24/12/2015,Build & Configuration Related Issue
+227,Closed,[TM3_Q&I_UX]: Step 4 - 'Pay by Cheque' option is getting displayed in 'Type of Payment' dropdown for B2C site which is not expected,3,30/11/2015,Test/SIT,Defect,13/12/2015 22:50,14/12/2015,Build & Configuration Related Issue
+228,Closed,[TM3_Q&I_UX]  Step 4 - Application for VTC plan,3,1/12/2015,Test/SIT,Defect,23/12/2015 7:44,23/12/2015,Coding Issue
+229,Closed,"[TM3_Q&I_UX] In Step 5 - Final Recap , Deductible amount is shown against Provincial Tax for VTC",2,1/12/2015,Test/SIT,Defect,13/12/2015 22:34,14/12/2015,Coding Issue
+230,Rejected,[TM3_Q&I] Step 4 - Manual entry of Postal code in Contact Information for Student- Outbound Plan,2,1/12/2015,Test/SIT,Defect,17/12/2015 15:10,17/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+231,Closed,"[TM3_Q&I_UX] : Step 5 - ""Please Note"" section after Plan Detail, in Step 5- Final Recap page is shown in French when issue is in English",3,1/12/2015,Test/SIT,Defect,29/12/2015 22:46,30/12/2015,Build & Configuration Related Issue
+232,Closed,[TM3_Q&I_Age] VTC showing error on Step 1 - First Page and not allowing to proceed when Age = 85,2,1/12/2015,Test/SIT,Defect,22/12/2015 23:10,23/12/2015,Coding Issue
+233,Closed,[TM3_Q&I_UX] Step 5 - 'Payment By' is blank in Final Recap page,3,1/12/2015,Test/SIT,Defect,13/1/2016 5:14,13/1/2016,Coding Issue
+234,Retested,[TM3_Q&I] Prefix and numeric portion of the generated policy number is not as per the requirement,3,1/12/2015,Test/SIT,Defect,13/1/2016 23:44,12/1/2016,Coding Issue
+235,Closed,"[TM3_Q&I]: Error on Step 1  on clicking ""Get My Quote"" button preventing moving ahead",1,1/12/2015,Test/SIT,Defect,8/12/2015 12:18,8/12/2015,Coding Issue
+236,Closed,[TM3_Q&I]: Not able to proceed in VTC when Super Visa is NOT selected as Medical Coverage dropdown shows no values,1,1/12/2015,Test/SIT,Defect,9/12/2015 20:43,9/12/2015,Environment Issue
+237,Closed,[TM3_Q&I_UX] Header - Main menu sequence mismatch in Header,4,1/12/2015,Test/SIT,Defect,21/1/2016 3:50,21/1/2016,Environment Issue
+238,Closed,"[TM3_Q&I_OLD_URL] Step 1 -  ""Learn More"" in the""Choose your traveller type"", is not displaying proper content and not opening in a new window",3,1/12/2015,Test/SIT,Defect,8/1/2016 4:38,8/1/2016,Build & Configuration Related Issue
+239,Closed,"[TM3_Q&I_COPY] Improper 'Mouse hover text' is getting displayed in ""Choose your Traveller Type"" step",4,1/12/2015,Test/SIT,Defect,27/12/2015 21:38,28/12/2015,Build & Configuration Related Issue
+240,Closed,"[TM3_Q&I_UX] Step 1 - Alignment issue with the help text in ""Tell us your story"" tab",4,1/12/2015,Test/SIT,Defect,22/12/2015 23:10,23/12/2015,Design Issue
+241,Closed,"[TM3_Q&I] Incorrect text in Help option of ""How many travellers are you covering with this insurance?"" field",4,1/12/2015,Test/SIT,Defect,9/12/2015 20:46,9/12/2015,Build & Configuration Related Issue
+242,Closed,[TM3_Q&I] Not able to proceed to next step as not able to select Trip Duration for OCM Multi Trip plan,1,2/12/2015,Test/SIT,Defect,10/12/2015 22:49,11/12/2015,Environment Issue
+243,Closed,[TM3_Q&I] Step 1 - OCM GHIP warning message shown on clicking [Get My Quote] in VTC,3,1/12/2015,Test/SIT,Defect,12/1/2016 22:06,13/1/2016,Build & Configuration Related Issue
+244,Open,[TM3_Q&I_COPY] Step 1 - In the family indicator section an extra text 'Copy outstanding' is getting displayed in the step 'Tell us your story',3,2/12/2015,Test/SIT,Defect,4/1/2016 13:28,,
+245,Closed,[TM3_Q&I_COPY] Mismatches found in Plan Type Description,3,2/12/2015,Test/SIT,Defect,12/12/2015 21:12,13/12/2015,Build & Configuration Related Issue
+246,Closed,[TM3_Product_Module] : Med Question Section Groups not available on All Tabs,4,2/12/2015,Test/SIT,Defect,8/12/2015 20:55,8/12/2015,Build & Configuration Related Issue
+247,Closed,[TM3_Q&I] Relationship info are missing from the call to TRIP web service,2,2/12/2015,Test/SIT,Defect,13/12/2015 18:48,13/12/2015,Coding Issue
+248,Closed,[TM3_Q&I] Unable to display recap page when policy require medical questionnarie,2,2/12/2015,Test/SIT,Defect,13/12/2015 19:56,13/12/2015,Coding Issue
+249,Closed,[TM3_PI&C_Module] : New Asset Confirmation Button is Missing in QAT,3,2/12/2015,Test/SIT,Defect,7/12/2015 10:26,7/12/2015,Build & Configuration Related Issue
+250,Closed,[TM3_PI&C_Module]  : Product Name is Missing From the Asset Screen in QAT,3,2/12/2015,Test/SIT,Defect,7/12/2015 10:29,7/12/2015,Build & Configuration Related Issue
+251,Closed,[TM3_PI&C_Module] : Family Members are not Displaying on the Asset for Family Plans,3,2/12/2015,Test/SIT,Defect,9/12/2015 20:12,9/12/2015,Build & Configuration Related Issue
+252,Closed,[TM3_PI&C_Module] : Link to Issuance Quote Missing in QAT,3,2/12/2015,Test/SIT,Defect,7/12/2015 11:00,7/12/2015,Build & Configuration Related Issue
+253,Closed,[TM3_PI&C_Module] : Policy Cancellation not Working in QAT,3,2/12/2015,Test/SIT,Defect,7/12/2015 10:38,7/12/2015,Testing Issue - User Error
+254,Closed,[TM3_Q&I] Step 2 - Invalid  value entered for quote causes all prices to disappear,3,3/12/2015,Test/SIT,Defect,29/12/2015 23:19,30/12/2015,Build & Configuration Related Issue
+255,Closed,"[TM3_Q&I_UX] Step 4 - Option ""Others"" not showing in filtered list",4,3/12/2015,Test/SIT,Defect,22/12/2015 22:46,23/12/2015,Coding Issue
+256,Duplicate,[TM3_Q&I] Country is a free form field,4,3/12/2015,Test/SIT,Defect,11/12/2015 16:02,11/12/2015,Design Issue
+257,Closed,[TM3_Q&I]  Cannot proceed after payment page,2,3/12/2015,Test/SIT,Watch List,14/12/2015 5:47,14/12/2015,Build & Configuration Related Issue
+258,Reopen,[TM3_Q&I]  Step 2 - System calculates a Premium for Trip Cancellation and Interruption  plan even when Trip costs is negative,3,3/12/2015,Test/SIT,Defect,16/1/2016 13:35,,Coding Issue
+259,Closed,[TM3_Q&I] Step 4 - System not accpeting blank as Email address,4,3/12/2015,Test/SIT,Defect,22/12/2015 22:56,23/12/2015,Coding Issue
+260,Open,[TM3_Q&I_COPY] Step 5 - Wording on final Recap page does not make sense,4,3/12/2015,Test/SIT,Defect,21/1/2016 22:13,,
+261,Closed,[TM3_Q&I] Medical Questionnaire indicator not shown for second insured of age > 60,3,4/12/2015,Test/SIT,Defect,13/12/2015 23:00,14/12/2015,Coding Issue
+262,Closed,[TM3_Q&I_Age] Medical Questionnaire section not present for insured age 60 in MTEM plan,2,4/12/2015,Test/SIT,Defect,29/12/2015 22:54,30/12/2015,Build & Configuration Related Issue
+263,Closed,[TM3_Q&I] Step 1 - Displaying error message while number of insured having age >59 is 2,2,4/12/2015,Test/SIT,Defect,20/12/2015 22:06,21/12/2015,Coding Issue
+264,Closed,[TM3_Q&I] Step 1 - When user enters coverage start date greater than 60 days from the purchase date earliest purchase date-multi warning message is not getting displayed,3,4/12/2015,Test/SIT,Defect,13/1/2016 2:36,13/1/2016,Build & Configuration Related Issue
+265,Closed,[TM3_Q&I] Step 1 - GHIP warning is being displayed when user navigates from Step 2 back to Step 1 when Travelling Canadian/Multi Trip is selected,3,4/12/2015,Test/SIT,Defect,13/1/2016 2:56,13/1/2016,Build & Configuration Related Issue
+266,Closed,[TM3_Q&I] Premium - Smoker surcharge is not being added to the premium amount,2,4/12/2015,Test/SIT,Defect,13/12/2015 21:40,14/12/2015,Build & Configuration Related Issue
+267,Closed,[TM3_Q&I] Medical Questionnaire is not showing up for Emergency Medical Top Up Plan,2,4/12/2015,Test/SIT,Defect,14/12/2015 5:57,14/12/2015,Coding Issue
+268,Closed,"[TM3_PI&C_Module] : Upon clicking on ""On/Off Hold"" button, Hold indicator status does not get changed for selected Policy in QAT environment",3,4/12/2015,Test/SIT,Defect,6/1/2016 23:18,7/1/2016,Coding Issue
+269,Closed,[TM3_Q&I] Provincial Tax amount is being populated for Outbound Student plans,2,4/12/2015,Test/SIT,Defect,15/12/2015 4:22,15/12/2015,Coding Issue
+270,Closed,"[TM3_PI&C_Module] :Upon clicking on ""Policy Change"" button, User goes back back to home tab instead of staying back in Assets Tab in QAT Environment",3,4/12/2015,Test/SIT,Defect,9/12/2015 20:31,9/12/2015,Build & Configuration Related Issue
+271,Closed,[TM3_Q&I_Module] Step 2 - Trip Cancellation plan is not shown when Destination is selected as Canada,2,4/12/2015,Test/SIT,Defect,14/12/2015 1:13,14/12/2015,Build & Configuration Related Issue
+272,Closed,[TM3_PI&C_Module] : Unable to search any Asset# from Global Search box in TRIP Application in QAT Environment,2,4/12/2015,Test/SIT,Defect,8/12/2015 0:28,8/12/2015,Environment Issue
+273,Closed,"[TM3_Product_Module] Tab order and alignment is incorrect in ""New Eligibiltiy Qualifiers"" screen",4,4/12/2015,Test/SIT,Defect,17/12/2015 15:16,17/12/2015,Build & Configuration Related Issue
+274,Closed,[TM3_Product_Module] : Tab does not move on Travller Type field in Traveller Type Edit screen,4,4/12/2015,Test/SIT,Defect,7/12/2015 14:01,7/12/2015,Build & Configuration Related Issue
+275,Closed,"[TM3_Product_Module] : In ""New Tax"" screen default tab is not set on Province field",4,4/12/2015,Test/SIT,Defect,7/12/2015 10:34,7/12/2015,Environment Issue
+276,Closed,"[TM3_Product_Module] : In ""Medical Question Section Sequence"" edit screen default tab is not set on Rate Category field",4,4/12/2015,Test/SIT,Defect,7/12/2015 10:34,7/12/2015,Environment Issue
+277,Closed,[TM3_Product_Module] : Text is not displayed on teh set tab in the main frame of SF,4,4/12/2015,Test/SIT,Defect,29/12/2015 10:46,29/12/2015,Build & Configuration Related Issue
+278,Closed,[TM3_Product_Module] : Non Travel products are displayed in search on the Product Home page,3,4/12/2015,Test/SIT,Defect,29/12/2015 10:45,29/12/2015,Build & Configuration Related Issue
+279,Closed,"[TM3_ACCT] Manual Accounting, suspense tag drop down has too many values",3,4/12/2015,Test/SIT,Defect,9/12/2015 21:02,10/12/2015,Coding Issue
+280,Open,[TM3_Q&I] Step 2 - Trip Cancellation and Interruption plan - No indication of the maximum trip amount,3,4/12/2015,Test/SIT,Defect,10/1/2016 20:48,,
+281,Open,[TM3_Q&I] Watch List: Quote URL never expire,4,4/12/2015,Test/SIT,Watch List,10/1/2016 20:23,,
+282,Closed,[TM3_Q&I_UX] Step 1 - Incomplete GHIP warning message is getting displayed for single trip OCM plans,3,6/12/2015,Test/SIT,Defect,29/12/2015 23:58,30/12/2015,Build & Configuration Related Issue
+283,Closed,"[TM3_Q&I] 'Covered' days field is not getting displayed in the ""Plan Recap"" page",3,6/12/2015,Test/SIT,Defect,9/12/2015 14:13,9/12/2015,Build & Configuration Related Issue
+284,Closed,"[TM3_Q&I_UX] Step 1 - For student plans ""GET MY QUOTE"" button is coming in grey color",4,6/12/2015,Test/SIT,Defect,22/12/2015 22:22,23/12/2015,Design Issue
+285,Closed,[TM3_Q&I_UX] Error messages not as expected,3,7/12/2015,Test/SIT,Defect,23/12/2015 0:02,23/12/2015,Build & Configuration Related Issue
+286,Closed,[TM3_Q&I] Step 1 - Default value missing for Family coverage checkbox in OCM,3,7/12/2015,Test/SIT,Defect,15/12/2015 21:16,16/12/2015,Build & Configuration Related Issue
+287,Closed,[TM3_Q&I] Step 2 - Plan selection is enabled for Coverage Start Date greater than 179 days from Purchase Date - Validation Rule not working,2,7/12/2015,Test/SIT,Defect,21/1/2016 4:53,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+288,Closed,[TM3_Q&I_COPY] Step 2  Eligibility notification for Student Plan  is not as expected,4,7/12/2015,Test/SIT,Defect,20/12/2015 22:21,21/12/2015,Build & Configuration Related Issue
+289,Closed,[TM3_Q&I] Step 4 - Top Up Plan - Departure and Destination fields are missing,2,7/12/2015,Test/SIT,Defect,23/12/2015 5:22,23/12/2015,Coding Issue
+290,Closed,"[TM3_Q&I_UX] Step 2 - ""Need help to choose"" section is appearing for Single Trip and Multi Trip",3,7/12/2015,Test/SIT,Defect,21/1/2016 7:40,21/1/2016,Coding Issue
+291,Closed,[TM3_Q&I] Family rate factor 3 is not displaying when 'Family Coverage' is selected as 'Yes' and 'Trip Interruption' is selected as 'Yes',2,7/12/2015,Test/SIT,Defect,13/12/2015 22:41,14/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+292,Closed,[TM3_Q&I_Age] No error message is getting displayed when Family coverage is selected and Travellers Age is greater than Plan/Family maximum age for VTC,2,7/12/2015,Test/SIT,Defect,23/12/2015 0:05,23/12/2015,Coding Issue
+293,Closed,[TM3_Q&I] The error messages cannot be reproduced on clicking on apply button.,4,7/12/2015,Test/SIT,Defect,11/12/2015 11:02,11/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+294,Closed,[TM3_Q&I] The system does not allow to enter the coverage end date less than the coverage start date on get a quote page[step1].So the error message cannot be replicated.,3,8/12/2015,Test/SIT,Defect,11/12/2015 11:03,11/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+295,Closed,"[TM3_PI&C_Module] : System does not provide any ability to select ""New Credit Card"" option to User in payment Edit page",2,8/12/2015,Test/SIT,Defect,28/12/2015 23:01,29/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+296,Rejected,[TM3_PI&C_Module] : User haven?t received any Email Confirmation after Policy Change,2,8/12/2015,Test/SIT,Defect,7/1/2016 23:23,17/12/2015,Testing Issue - Oversight of Testing Requirements
+297,Closed,[TM3_Q&I_Age] System is displaying an error message when the traveller age is 30 days (minimum age boundary value),3,7/12/2015,Test/SIT,Defect,30/12/2015 2:06,30/12/2015,Coding Issue
+298,Closed,[TM3_Q&I] Step 2 - VTC showing Plan B- Medical Questionnaire for all ages,3,8/12/2015,Test/SIT,Defect,27/12/2015 21:24,28/12/2015,Build & Configuration Related Issue
+299,Closed,[TM3_Q&I_Age] System is throwing error message when travelers age is not greater than the maximum age,3,8/12/2015,Test/SIT,Defect,28/12/2015 21:25,29/12/2015,Coding Issue
+300,Closed,[TM3_Report] : Plan Code drop down shows 5 values for each plan code for Student Plans rate Report,3,8/12/2015,Test/SIT,Defect,11/1/2016 20:04,11/1/2016,Coding Issue
+301,Closed,"[TM3_Report] : For National Student PlanCode, report displays rates for National and Outbound",3,8/12/2015,Test/SIT,Defect,3/1/2016 20:53,3/1/2016,Build & Configuration Related Issue
+302,Closed,[TM3_Q&I] : Step 4 - Application Page - Canadian Addresses,1,8/12/2015,Test/SIT,Defect,28/12/2015 5:06,28/12/2015,Requirement Issue - Change in Requirement
+303,Reopen,[TM3_Q&I_COPY] : Step 4 - Application Page - International Addresses,4,8/12/2015,Test/SIT,Defect,12/1/2016 22:33,,Requirement Issue - Change in Requirement
+304,Closed,[TM3_Q&I] : Step 4 - Application Page - Student - Family,1,8/12/2015,Test/SIT,Defect,23/12/2015 4:17,23/12/2015,Requirement Issue - Change in Requirement
+305,Closed,[TM3_PI&C_Module] : Not Able to Remove an Optional BO,3,8/12/2015,Test/SIT,Defect,21/1/2016 13:16,21/1/2016,Coding Issue
+306,Closed,[TM3_PI&C_Module] : Cheque Number Should not be Mandatory,4,8/12/2015,Test/SIT,Defect,21/12/2015 4:29,21/12/2015,Coding Issue
+307,Closed,[TM3_PI&C_Module] : Cannot Search by Payment Details,3,8/12/2015,Test/SIT,Defect,20/12/2015 20:50,20/12/2015,Build & Configuration Related Issue
+308,Closed,[TM3_PI&C_Module] : Opp Notes Are Showing Asset History Details,4,8/12/2015,Test/SIT,Defect,9/12/2015 20:44,9/12/2015,Build & Configuration Related Issue
+309,Closed,[TM3_Migration] : Never in force policies were migrated,3,8/12/2015,Development,Defect,27/12/2015 16:52,27/12/2015,Coding Issue
+310,Closed,[TM3_Migration] : Migration process assigns wrong plan versions,2,8/12/2015,Development,Defect,27/12/2015 16:52,27/12/2015,Coding Issue
+311,Closed,[TM3_Migration] : Migration process did not populate payment table,2,8/12/2015,Development,Defect,27/12/2015 16:53,27/12/2015,Coding Issue
+312,Closed,[TM3_Migration] : DOB not populated in some cases,2,8/12/2015,Development,Defect,27/12/2015 16:53,27/12/2015,Coding Issue
+313,Closed,[TM3_Migration] : Migration process did not populate PolicyBenefit table,2,8/12/2015,Development,Defect,13/1/2016 22:26,14/1/2016,Coding Issue
+314,Open,[TM3_Q&I] : Watch List - Issue with Re-launch,2,8/12/2015,Test/SIT,Watch List,10/1/2016 20:24,,
+315,Closed,[TM3_Migration] : Policies from 2011 are not being migrated,2,8/12/2015,Development,Defect,27/12/2015 16:58,27/12/2015,Coding Issue
+316,Closed,[TM3_Migration] : Premium adjustment instance table not populated by migration?,2,8/12/2015,Development,Defect,18/1/2016 11:38,18/1/2016,Coding Issue
+317,Closed,"[TM3_Migration] : No ""Update"" in audit table(s) for migrated policies?",2,8/12/2015,Development,Defect,27/12/2015 16:59,27/12/2015,Coding Issue
+318,Closed,[TM3_Q&I_Copy] Age Error 1 prefix is getting displayed with Age related error messages,4,8/12/2015,Test/SIT,Defect,21/1/2016 13:47,21/1/2016,Coding Issue
+319,Closed,"[TM3_Q&I] The quote [Step2] Page is not displayed for Students plan.On clicking on 'Get a quote' The system displays an error message""Start of Coverage must be within 30 days of the Education Start Date.""",2,9/12/2015,Test/SIT,Defect,15/12/2015 4:56,15/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+320,Closed,[TM3_Q&I] : Step 4 After PCI,1,9/12/2015,Test/SIT,Defect,23/12/2015 4:32,23/12/2015,Coding Issue
+321,Closed,[TM3_PI&C_Module ] : Requirement Defect - Popup Button labels are not matching with Specification document,4,9/12/2015,Test/SIT,Defect,28/12/2015 5:17,28/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+322,Open,[TM3_PI&C] : Error message is not showing as mentioned in Specification doc while Cancelling a Void Policy in TRIP Application,3,9/12/2015,Test/SIT,Defect,21/1/2016 8:35,,
+323,Closed,[TM3_Q&I] Premium - Smokers Surcharge is being added to non-medical portion of STAI plan,2,9/12/2015,Test/SIT,Defect,23/12/2015 1:43,23/12/2015,Build & Configuration Related Issue
+324,Closed,[TM3_Q&I] Premium Amount is Not correct for OCM - Single Trip Emergency Medical Plan,2,9/12/2015,Test/SIT,Defect,13/12/2015 22:36,14/12/2015,Build & Configuration Related Issue
+325,Closed,[TM3_Q&I] Premium error in OCM- Single Trip All Inclusive Plan,2,9/12/2015,Test/SIT,Defect,14/12/2015 1:37,14/12/2015,Coding Issue
+326,Closed,"[TM3_PI&C_Module] : Getting ""Workflow Action Failed to Trigger Flow"" while changing ""Canadian Arrival Date"" details in Opportunity Extension Details.",2,9/12/2015,Test/SIT,Defect,6/1/2016 17:11,15/12/2015,Coding Issue
+327,Closed,[TM3_Q&I] Step 2 - Benefits/Features are not properly displaying for the plan VTC,3,9/12/2015,Test/SIT,Defect,28/12/2015 22:17,29/12/2015,Build & Configuration Related Issue
+328,Duplicate,[TM3_Q&I_UX] Quote progress bar steps are displaying incorrectly in the plan selection page,3,9/12/2015,Test/SIT,Defect,10/12/2015 21:52,9/12/2015,Testing Issue - User Error
+329,Closed,[TM3_Q&I] Step 2 - The traveller options are getting overlapped when a family coverage is selected for VTC plan.,4,9/12/2015,Test/SIT,Defect,15/12/2015 21:17,16/12/2015,Build & Configuration Related Issue
+330,Closed,[TM3_Q&I_UX] Step 2 - The coverage amount dropdown in (step2) screen is getting trimmed and the dropdown does not display the entire amount.The last digits are getting trimmed.,4,9/12/2015,Test/SIT,Defect,15/12/2015 2:06,15/12/2015,Coding Issue
+331,Closed,[TM3_Q&I] Premium calculation error in OCM Single Trip Travel Canada Emergency Medical,2,9/12/2015,Test/SIT,Defect,14/12/2015 1:54,14/12/2015,Coding Issue
+332,Open,[TM3_Q&I_Browser] : Step 6 - Password window is hidden behind empty Policy Confirmation page when clicked on Policy Number in Thank You page (Step 6),3,9/12/2015,Test/SIT,Defect,13/1/2016 0:41,,
+333,Open,[TM3_Q&I_Browser] : Step 6 - Policy Confirmation password window shows password as characters (password is not masked) when opened from Thank You page,4,9/12/2015,Test/SIT,Defect,7/1/2016 3:47,,
+334,Rejected,"[TM3_Q&I] : Need a sentence to replace ""Start Date of Coverage must be within 30 days prior to Education Start Date""",3,9/12/2015,Test/SIT,Watch List,23/12/2015 21:47,24/12/2015,Existing Production Issue
+335,Closed,[TM3_Q&I] : Date time issues with data in service interface and TRIP database,1,9/12/2015,Test/SIT,Defect,27/12/2015 21:18,28/12/2015,Requirement Issue - Change in Requirement
+336,Closed,"[TM3_Q&I_UX] Step 3 - Clarification: 'OK' button is not available in ""Ready to apply"" step under 'Privacy Information' section",4,9/12/2015,Test/SIT,Defect,23/12/2015 22:45,24/12/2015,Requirement Issue - Change in Requirement
+337,Closed,[TM3_Q&I] Step 2 - Benefits/Features are not properly displaying for the Students plan,3,10/12/2015,Test/SIT,Defect,4/1/2016 2:33,14/12/2015,Build & Configuration Related Issue
+338,Closed,[TM3_Q&I] Step 4 - Clarification: Issue with the 'Departure' field in Applicant Information page,3,9/12/2015,Test/SIT,Defect,30/12/2015 2:26,30/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+339,Closed,[TM3_Q&I] Step 4 - Issue with the 'Destination' field in 'Applicant Information' page,3,10/12/2015,Test/SIT,Defect,14/12/2015 1:39,14/12/2015,Build & Configuration Related Issue
+340,Closed,[TM3_Accounting_Module] : SuspenseTagTypeID is showing NULL Value for Manual Accounting Entry for Manual Accounting Entries in TRIP DB,2,10/12/2015,Test/SIT,Defect,13/1/2016 8:40,13/1/2016,Design Issue
+341,Closed,[TM3_Q&I] Step 3 - The traveller coverage type is not getting displayed in the traveller details section in the selected plan(s) recap(Step3) page,3,10/12/2015,Test/SIT,Defect,12/1/2016 23:10,13/1/2016,Build & Configuration Related Issue
+342,Reopen,[TM3_Q&I_UX] Step 4 - Issue with the mandatory fields in the 'Applicant Info' page,3,10/12/2015,Test/SIT,Defect,13/1/2016 4:52,13/1/2016,Coding Issue
+343,Closed,"[TM3_ACCT_Module] : ""Currency"" field found in Accounting Transaction Edit page .but not mentioned in Specification doc",3,10/12/2015,Test/SIT,Defect,23/12/2015 21:55,24/12/2015,Build & Configuration Related Issue
+344,Closed,[TM3_Q&I] Step 5 - In the Final Recap page the link to the PDF Policy brochure is not displayed at the end of Information Verification section.,3,10/12/2015,Test/SIT,Defect,12/1/2016 23:30,13/1/2016,Coding Issue
+345,Closed,[TM3_Q&I] Step 5 - The 'Relationship' field is not getting displayed for Traveller Details-Family section in the Final Recap page,4,10/12/2015,Test/SIT,Defect,15/12/2015 21:18,16/12/2015,Build & Configuration Related Issue
+346,Open,[TM3_Q&I] : Step 5 -  'Your declaration' section of the Medical questionnaire is displayed for Trip Cancellation/Interruption plan in the 'Final Recap' page,3,10/12/2015,Test/SIT,Defect,19/1/2016 19:44,,
+347,Closed,[TM3_Q&I_UX] Step 5 - In the 'Final Recap' page after selecting one 'Information verification' checkbox an error message is getting displayed,4,10/12/2015,Test/SIT,Defect,13/1/2016 23:11,14/1/2016,Coding Issue
+348,Fixed,"[TM3_PI&C] : User receives  ""OnClick"" javascript error message while clicking on Policy Change button",3,10/12/2015,Test/SIT,Defect,21/1/2016 18:39,14/1/2016,Coding Issue
+349,Open,[TM3_Q&I_UX] Sep 5 - In The 'Final Recap' page there is no 'Payment section' present from where user can edit and navigate to the Apply payment page,3,10/12/2015,Test/SIT,Defect,12/1/2016 20:24,,
+350,Closed,[TM3_Q&I_Copy] Step 4 - PCI - Error messages are not properly displaying in the PCI payment page when fields are left blank,3,10/12/2015,Test/SIT,Defect,14/1/2016 12:22,14/1/2016,Environment Issue
+351,Open,[TM3_Q&I_UX] Step 4 - PCI - Look and feel is not proper in the PCI payment page,4,10/12/2015,Test/SIT,Defect,13/1/2016 23:55,,
+352,Open,[TM3_Q&I] - Step 2 - Missed Requirement (2016 MFTI Relaunch),2,10/12/2015,Development,Defect,19/1/2016 4:18,,
+353,Reopen,[TM3_Accounting] Batch - multiple issues with data under GLLawsonDetails.AccountingEntity,2,10/12/2015,Test/SIT,Defect,19/1/2016 4:42,30/12/2015,Coding Issue
+354,Closed,[TM3_Accounting Batch] Value for GLLawsonDetails.System is incorrect,2,10/12/2015,Development,Defect,30/12/2015 1:16,30/12/2015,Environment Issue
+355,Closed,[TM3 Accounting Batch] GLLawsonDetails.Description is not correct,2,10/12/2015,Development,Defect,7/1/2016 1:50,7/1/2016,Coding Issue
+356,Closed,[TM3 Accounting Batch] GLLawsonDetails.RES not in correct format,2,10/12/2015,Development,Defect,30/12/2015 2:19,30/12/2015,Coding Issue
+357,Closed,[TM3 Accounting Batch] GLLawsonDetails.REPORT not in correct format,2,10/12/2015,Development,Defect,30/12/2015 3:30,30/12/2015,Coding Issue
+358,Closed,[Q&I] Develop Web Analytics for the CoverMe Travel Website,3,10/12/2015,Development,Defect,13/1/2016 12:21,13/1/2016,Build & Configuration Related Issue
+359,Open,[Overall] Salesforce Code Coverage,3,10/12/2015,Development,Defect,29/12/2015 0:40,,
+360,Duplicate,[Q&I] Fix User Interface Issues,3,10/12/2015,Development,Defect,6/1/2016 21:02,7/1/2016,Coding Issue
+361,Closed,[Q&I] Add Payment Failure Handling,2,10/12/2015,Development,Defect,13/1/2016 12:48,13/1/2016,Design Issue
+362,Closed,[Q&I] Develop French Support,2,10/12/2015,Development,Defect,13/1/2016 12:48,13/1/2016,Design Issue
+363,Open,[Q&I] Payload Issue - Issuing Policy with max companions,2,10/12/2015,Development,Defect,17/1/2016 9:17,,
+364,Closed,[Q&I] Orchestra Caching Issue,2,10/12/2015,Development,Defect,6/1/2016 14:02,6/1/2016,Coding Issue
+365,Closed,[Q&I] Menu Bar not showing on Live Site,1,10/12/2015,Development,Defect,6/1/2016 21:47,7/1/2016,Coding Issue
+366,Open,[TM3_Migration] Data Loader Script to load data from TRIP DB to SFDC,2,10/12/2015,Development,Defect,12/1/2016 18:49,,
+367,Open,[MIS] Load Data from Operation DB to TRIP DB,2,10/12/2015,Development,Defect,30/12/2015 2:06,,
+368,Open,[Navigation] - CoverMe Website & Domino Links,2,10/12/2015,Development,Defect,6/1/2016 16:33,,
+369,Open,"[SSO &UP] - SSO, federation and User Provisioning Support build",2,10/12/2015,Development,Defect,7/1/2016 3:04,,
+370,Closed,[TM3_Confirmations] : Functionality fixes to support STP correspondence,2,10/12/2015,Development,Defect,21/1/2016 14:12,21/1/2016,Coding Issue
+371,Closed,"[TM3_PI&C_Module] : Received JavaScript Error Message while user clicks on ""Reinstate"" button",2,11/12/2015,Test/SIT,Defect,20/12/2015 23:10,21/12/2015,Coding Issue
+372,Closed,[TM3_Q&I] Premiums are not being displayed for any of the plans - not able to proceed beyond Step 2.,1,11/12/2015,Test/SIT,Defect,12/12/2015 20:31,12/12/2015,Build & Configuration Related Issue
+373,Closed,[TM3_PI&C_Module] : In the global search result two extra section is getting displayed-Contracts and Oppurtunities,4,11/12/2015,Test/SIT,Defect,23/12/2015 22:52,24/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+374,Closed,"[TM3_Q&I] Step 1 - Duration showed as 1 day if ""Coverage End Date"" is filled before ""Coverage Start Date.""- Need clarification on expected behavior",4,11/12/2015,Test/SIT,Defect,12/1/2016 22:41,13/1/2016,Coding Issue
+375,Closed,[TM3_PI&C_Module_UX] : Field name mismatch in the 'Contacts' section of search result after global search,4,11/12/2015,Test/SIT,Defect,24/12/2015 1:57,24/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+376,Closed,"[TM3_PI&C_Module_Search] : Clarification: User is not able to search asset using various fields like contact Fname/Lname, Postal code, credit card holder name etc",4,11/12/2015,Test/SIT,Watch List,27/12/2015 22:30,28/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+377,Closed,[TM3_PI&C_Module] : In the 'Contacts' section sorting on the column heading 'Contact Owner Alias' is not working properly,4,11/12/2015,Test/SIT,Defect,30/12/2015 3:26,30/12/2015,Environment Issue
+378,Closed,[TM3_PI&C_Module_UX] : 'Email' hyperlink is not clickable in the 'Contacts' section,4,11/12/2015,Test/SIT,Defect,6/1/2016 21:41,7/1/2016,Environment Issue
+379,Closed,[TM3_PI&C_Module_Age] The system displays an error message when age is equal to 30 days for single trip travel canada emergency medical plan.[PC01-FR706],3,11/12/2015,Test/SIT,Defect,20/12/2015 22:32,21/12/2015,Coding Issue
+380,Closed,"[TM3_PI&C_Module_Cancel_Policy] : Upon clicking On/Off Hold button , System is showing error message for Cancelled Policy",3,11/12/2015,Test/SIT,Defect,4/1/2016 6:30,4/1/2016,Coding Issue
+381,Closed,[TM3_Q&I_COPY] Step 1 - Number of dependent question is not displayed for EMTU Family coverage.,3,11/12/2015,Test/SIT,Defect,17/1/2016 23:36,18/1/2016,Build & Configuration Related Issue
+382,Closed,[TM3_PI&C_Module] : In the 'Contact search Details' upon clicking 'Contact Owner Alias' system is not navigating to 'Contact Owner' details page,3,11/12/2015,Test/SIT,Defect,20/12/2015 22:59,21/12/2015,Environment Issue
+383,Closed,[TM3_Q&I] Step 2 - Premium Amount is Not being calculated for Trip Amount $0 in Trip Cancellation/Interruption plan,3,11/12/2015,Test/SIT,Defect,21/1/2016 7:43,21/1/2016,Coding Issue
+384,Reopen,[TM3_Q&I_UX] - Header - Text size icon above the Quote progress bar are not working,4,11/12/2015,Test/SIT,Defect,12/1/2016 23:11,,Build & Configuration Related Issue
+385,Closed,[TM3_Q&I] : SalesChannelType is missing on the Policy,2,11/12/2015,Test/SIT,Defect,5/1/2016 12:50,5/1/2016,Requirement Issue - Change in Requirement
+386,Closed,[TM3_Q&I_UX] Header - Email icon is not working above the quote progress bar,4,11/12/2015,Test/SIT,Defect,12/1/2016 23:30,13/1/2016,Environment Issue
+387,Duplicate,[TM3_Q&I] Not able to proceed to quote comparison page for multi trip duration 60,2,11/12/2015,Test/SIT,Defect,11/12/2015 14:19,11/12/2015,Testing Issue - User Error
+388,Closed,[TM3_Q&I] Maximum Trip Amount limit for Trip Cancellation/Interruption plan,4,11/12/2015,Test/SIT,Watch List,24/12/2015 2:00,24/12/2015,Build & Configuration Related Issue
+389,Closed,"[TM3_PI&C_Module] : No ""Add Insured""/""Remove Insured"" button exists in QAT",2,11/12/2015,Test/SIT,Defect,28/12/2015 23:30,29/12/2015,Build & Configuration Related Issue
+390,Closed,[TM3_PI&C_Module] : Wrong error message is getting displayed while populating <Canadian Arrival Date> for OCM Plans,3,11/12/2015,Test/SIT,Defect,20/12/2015 23:47,21/12/2015,Coding Issue
+391,Closed,[TM3_PI&C] The system displays an error message when age is equal to 30 days for VTC and STUDENTS Plan[PC01-FR706],3,11/12/2015,Test/SIT,Defect,18/1/2016 11:36,18/1/2016,Coding Issue
+392,Closed,"[TM3_PI&C_Module] : Canadian Arrival Date field is displaying as ""Blank"" in Salesforce,though Data can be found in TRIP DB",2,11/12/2015,Test/SIT,Defect,15/12/2015 2:36,15/12/2015,Coding Issue
+393,Closed,[TM3_PI&C_Module] : User is not able to Edit Deductible field for any selected Opportunity in TRIP Application,2,11/12/2015,Test/SIT,Defect,15/12/2015 4:44,15/12/2015,Design Issue
+394,Open,[TM3_Q&I_UX] Step 2 - Plan selector not checked when Plan Selection used on Step 1,4,12/12/2015,Test/SIT,Defect,16/1/2016 16:27,,
+395,Closed,"[TM3_PI&C_Module] : See Description for the issues reported for ""Multi Trip Duration"" and ""Trip Duration"" fields",2,12/12/2015,Test/SIT,Defect,21/12/2015 2:56,21/12/2015,Coding Issue
+396,Closed,[TM3_Q&I] Step 4 - Additional Issues,2,12/12/2015,Test/SIT,Defect,30/12/2015 11:24,30/12/2015,Coding Issue
+397,Ready to Retest,[TM3_Q&I] Application date and client offset info and WODM calls,2,12/12/2015,Test/SIT,Defect,21/1/2016 22:08,,Design Issue
+398,Closed,[TM3_Correspondence] : Policy PDF urls are missing from e-mail generated during policy issue process,3,12/12/2015,Test/SIT,Defect,31/12/2015 11:15,31/12/2015,Build & Configuration Related Issue
+399,Closed,"[TM3_PI&C_Module] : No error message found where User select Coverage Amount = 150,000 and Traveler Age > 69",3,14/12/2015,Test/SIT,Defect,23/12/2015 7:53,23/12/2015,Coding Issue
+400,Closed,"[TM3_PI&C_Module] : Requirement Issue: System is not showing error message while populating  Coverage End Date field for ""Traveling Canadian/ Multi""",3,14/12/2015,Test/SIT,Defect,10/1/2016 22:12,11/1/2016,Coding Issue
+401,Closed,[TM3_Q&I] Step 2 - Medical Questionnaire not showing up for Emergency Medical top Up plan.,2,14/12/2015,Test/SIT,Defect,23/12/2015 2:17,23/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+402,Closed,[TM3_Confirmation] : Bounceback benefit column displayed for TRIP family policies,3,14/12/2015,Test/SIT,Defect,31/12/2015 12:11,31/12/2015,Coding Issue
+403,Ready to Retest,"[TM3_Q&I] : Step 2 - Upon clicking on Next button, System is showing 2 error message pop up where Plan = ?Travelling Canadian\ Single Trip? and Traveler Age > 59",2,14/12/2015,Test/SIT,Defect,20/1/2016 22:00,,Requirement Issue - Change in Requirement
+404,Rejected,[TM3_Q&I_Module] : STAI confirmation - premium not correct,3,14/12/2015,Test/SIT,Defect,12/1/2016 21:47,13/1/2016,Environment Issue
+405,Closed,"[TM3_Q&I_Confirmations] : All confirmations - CoverMe logo should be with TM, not ?",3,14/12/2015,Test/SIT,Defect,23/12/2015 22:20,24/12/2015,Coding Issue
+406,Closed,"[TM3_Q&I_Confirmations] : STAI, STTCEM & TC confirmation - missing Destination & Departure",3,14/12/2015,Test/SIT,Defect,29/12/2015 11:29,29/12/2015,Coding Issue
+407,Closed,[TM3_Q&I_Confirmations] : All confirmations - missing Policy Number,3,14/12/2015,Test/SIT,Defect,23/12/2015 22:21,24/12/2015,Build & Configuration Related Issue
+408,Closed,[TM3_PI&C] : Destination Location is Missing From the Asset Extention Screen,3,14/12/2015,Test/SIT,Defect,21/12/2015 3:34,21/12/2015,Build & Configuration Related Issue
+409,Closed,[TM3_PI&C] :  Cover Letter Option 'None' is no Longer Avail in QAT,3,14/12/2015,Test/SIT,Defect,17/12/2015 12:14,17/12/2015,Requirement Issue - Change in Requirement
+410,Closed,[TM3 Issuance confirmation] - Trip Cancellation - missing Departure Date data,3,14/12/2015,Test/SIT,Defect,23/12/2015 22:09,24/12/2015,Coding Issue
+411,Closed,[TM3 Issuance confirmation] - Trip Cancellation - Total Number of Coverage Days not correct,3,14/12/2015,Test/SIT,Defect,23/12/2015 22:21,24/12/2015,Coding Issue
+412,Closed,[TM3_PI&C] User is able to change the Coverage Start Date where System Date > Coverage Start Date,3,15/12/2015,Test/SIT,Defect,20/12/2015 22:51,21/12/2015,Build & Configuration Related Issue
+413,Closed,[TM3_Q&I] No premium is populated when policy is purchased from 'Create New Application' link in 'Thank You' page.,3,15/12/2015,Test/SIT,Defect,28/12/2015 2:50,28/12/2015,Coding Issue
+414,Open,[TM3_PI&C] : Screen name is not displaying properly when user clicks on the hyperlink <Benefit Offering Detail  Name> in the 'Benefit Offering Details' section,4,15/12/2015,Test/SIT,Defect,21/1/2016 9:21,,
+415,Closed,[TM3_Q&I] Step 6 - All values in the table of Thank You page not hyperlinked.,4,15/12/2015,Test/SIT,Defect,17/12/2015 21:26,18/12/2015,Requirement Issue - Change in Requirement
+416,Closed,[TM3 PI&C] User is able to delete coverage start date and save the changes,2,15/12/2015,Test/SIT,Defect,21/12/2015 3:38,21/12/2015,Build & Configuration Related Issue
+417,Open,[TM3_PI&C] : Field level issue in the 'Asset Details' screen,4,15/12/2015,Test/SIT,Defect,21/1/2016 9:42,,Requirement Issue - Ambiguous/Unclear Requirement
+418,Closed,"[TM3 PI&C] User is able to change coverage end date,trip duration>365 and save the changes",2,15/12/2015,Test/SIT,Defect,23/12/2015 4:32,23/12/2015,Coding Issue
+419,Open,[TM3_PI&C] : After changing a policy when the user clicks on the 'Commit' button without adding payment system throws unexpected error message,3,15/12/2015,Test/SIT,Defect,21/1/2016 9:54,,
+420,Closed,[TM3_PI&C] User is able to change the Deductible where System Date > Coverage Start Date,3,15/12/2015,Test/SIT,Defect,12/1/2016 14:34,12/1/2016,Build & Configuration Related Issue
+421,Closed,[TM3_Q&I_Premium] Less Travel Canada Savings being shown for STAI plan.,2,15/12/2015,Test/SIT,Defect,20/12/2015 20:49,21/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+422,Closed,[TM3_PI&C_Module] : In the 'Benefit Offering Detail' screen value for 'Asset Contact Role' field is not displaying,4,15/12/2015,Test/SIT,Defect,21/12/2015 22:57,22/12/2015,Requirement Issue - Change in Requirement
+423,Closed,[TM3_PI&C_Premium Amount] Premium amount is not as expected after changing the policy details,2,16/12/2015,Test/SIT,Defect,20/12/2015 23:14,21/12/2015,Coding Issue
+424,Open,[TM3_PI&C] : Field name and field value mismatch in the 'Benefit Offering Detail' screen,3,15/12/2015,Test/SIT,Defect,21/1/2016 12:16,,
+425,Closed,"[TM3_PI&C_Module] : System is showing SOQL error message for ""Canadian Arrival Date"" where Product = Student Plan ? Outbound Student",3,16/12/2015,Test/SIT,Defect,22/12/2015 23:46,23/12/2015,Coding Issue
+426,Closed,[TM3_PI&C] User is not able to Change Education End Date for Student Plans,2,16/12/2015,Test/SIT,Defect,20/12/2015 23:30,21/12/2015,Coding Issue
+427,Deferred,[TM3_Reports] LIA Sales Report By LIA Defects,3,16/12/2015,Development,Defect,29/12/2015 10:55,29/12/2015,Build & Configuration Related Issue
+428,Ready to Retest,[TM3_Reports] LIA Sales Report By Policy Defects,3,16/12/2015,Development,Defect,29/12/2015 10:56,,Test Data Issue - Invalid Test Data
+429,Deferred,[TM3_Reports] New Business Reports Defects,3,16/12/2015,Development,Defect,12/1/2016 18:54,12/1/2016,Environment Issue
+430,Closed,[TM3 PI&C] - Created policies display error in Policy Admin,3,16/12/2015,Test/SIT,Watch List,29/12/2015 10:57,29/12/2015,Test Data Issue - Invalid Test Data
+431,Closed,[TM3_Reports] : Credit Card reconciliation header is not correct,3,16/12/2015,Development,Defect,5/1/2016 12:50,5/1/2016,Coding Issue
+432,Closed,[TM3_Reports] : Policy Suspense Amount -  header is not correct,3,16/12/2015,Development,Defect,4/1/2016 9:16,29/12/2015,Coding Issue
+433,Closed,[TM3_PI&C_Module] :Clarification: In the 'Asset Extension' value for 'Program' field is not displaying,4,16/12/2015,Test/SIT,Defect,29/12/2015 9:02,28/12/2015,Coding Issue
+434,Open,[TM3_PI&C]: Field mismatch in the 'Contact Detail' section navigating from the 'Related Contacts',3,16/12/2015,Test/SIT,Defect,16/1/2016 9:31,,
+435,Closed,[TM3 Issuance confirmation] : STEM policy not displaying deductible amount,3,16/12/2015,Test/SIT,Defect,30/12/2015 20:41,30/12/2015,Coding Issue
+436,Closed,[TM3_Q&I] : PrimaryInd on the contacts object (email and phone) not maintained properly,2,16/12/2015,Test/SIT,Defect,29/12/2015 12:04,29/12/2015,Coding Issue
+437,Closed,[TM3 Issuance Confirmation] - STEM Family breakdown display,4,16/12/2015,Test/SIT,Defect,30/12/2015 20:42,30/12/2015,Coding Issue
+438,Closed,[TM3 Issuance Confirmation] - STEM Family premium multiplier missing,3,16/12/2015,Test/SIT,Defect,7/1/2016 22:46,8/1/2016,Coding Issue
+439,Closed,[TM3_Q&I] - Step 1 - Plan Selector for Emergency Medical Top Up does not display entry fields,3,16/12/2015,Test/SIT,Defect,29/12/2015 11:55,29/12/2015,Build & Configuration Related Issue
+440,Closed,[TM3_PI&C] Insured DOB should not be changed in such a way that triggers medical questionnaire,2,16/12/2015,Test/SIT,Defect,29/12/2015 3:44,21/12/2015,Coding Issue
+441,Closed,[TM3_PI&C] Premium amount is not as expected after changing the policy details for Single Trip All Inclusive Plan,2,17/12/2015,Test/SIT,Defect,30/12/2015 1:22,30/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+442,Closed,[TM3_PI&C_Module_Age]: System is not displaying any error message when family max age>59 for OCM-STTCEM and VTC Plan A,3,17/12/2015,Test/SIT,Defect,13/1/2016 5:42,13/1/2016,Coding Issue
+443,Closed,"[TM3_Accounting_Module] : ""BatchID"" column is getting displayed as 2141 instead pf showing BatchProcessingDate",3,17/12/2015,Test/SIT,Defect,13/1/2016 1:58,13/1/2016,Design Issue
+444,Closed,[TM3_PI&C] User is able to change the deductible amount for Single TRIP Travel Canada Emergency Medical Plan,2,17/12/2015,Test/SIT,Defect,7/1/2016 3:00,7/1/2016,Coding Issue
+445,Closed,[TM3_Q&I_Age] Medical Questionnaire shown from Age 56 for Multi Trip All Inclusive Plan.,3,17/12/2015,Test/SIT,Defect,27/12/2015 21:31,28/12/2015,Build & Configuration Related Issue
+446,Retested,[TM3_Q&I] Not able to Retrieve a Saved Quote,2,17/12/2015,Test/SIT,Defect,17/1/2016 22:04,,Build & Configuration Related Issue
+447,Closed,[TM3_Q&I] Error shown as 'Please contact Admin' after Step 5,1,17/12/2015,Test/SIT,Defect,24/12/2015 1:59,24/12/2015,Build & Configuration Related Issue
+448,Duplicate,"[TM3_Accounting_Module] : No Entry found in GLTag table where TagName is ""Legal""",2,17/12/2015,Test/SIT,Defect,7/1/2016 2:17,7/1/2016,Database Issue
+449,Closed,[TM3_PI&C] New premium amount is not being displayed after policy change for Visitors to Canada Plan B,2,17/12/2015,Test/SIT,Defect,30/12/2015 2:33,30/12/2015,Coding Issue
+450,Closed,[TM3 Issuance Confirmation] - VTC A Family - Premium on web is different from confirmation,2,16/12/2015,Test/SIT,Defect,14/1/2016 12:22,14/1/2016,Coding Issue
+451,Fixed,[TM3_Q&I_UX] : Destination info added to the bottom on step 4 page - Page Display,4,17/12/2015,Test/SIT,Defect,22/1/2016 2:51,14/1/2016,Coding Issue
+452,Closed,[TM3 Issuance Confirmation] : Secondary phone missing from correspondence page,3,17/12/2015,Development,Defect,28/12/2015 20:17,28/12/2015,Coding Issue
+453,Closed,[TM3_Migration] Data Mismatch is observed for policy no 5A0080932I between wynsure and INST_TRIP_D1 Database.,2,17/12/2015,Development,Defect,7/1/2016 11:31,28/12/2015,Coding Issue
+454,Closed,[TM3_Migration] Data Mismatch is observed for policy no 5a0081496o  between wynsure and INST_TRIP_D1 Database.,2,17/12/2015,Development,Defect,13/1/2016 22:26,14/1/2016,Coding Issue
+455,Closed,[TM3_PI&C] System is not showing error while Coverage Start Date is more than 365 days from Purchase Date,3,18/12/2015,Test/SIT,Defect,23/12/2015 4:41,23/12/2015,Coding Issue
+456,Closed,[TM3_Migration] Inactive Policies are also present in Policy table for '5A' policies  in INST_TRIP_D1 Database.,2,18/12/2015,Development,Defect,7/1/2016 11:31,28/12/2015,Coding Issue
+457,Closed,[TM3_PI&C_Module]: User is not able to select a date before year 2014 for the 'Birthdate' field from calendar in the 'Quote Contact Role Edit' screen,4,18/12/2015,Test/SIT,Defect,22/12/2015 22:35,23/12/2015,Environment Issue
+458,Closed,"[TM3_Q&I] Age is shown as ""NULL"" in Trip DB",2,18/12/2015,Test/SIT,Defect,14/1/2016 2:20,14/1/2016,Coding Issue
+459,Closed,[TM3_Migration] Data Mismatch is observed for policy no 5A80776B between wynsure and INST_TRIP_D1 Database.,2,18/12/2015,Development,Defect,13/1/2016 12:52,13/1/2016,Coding Issue
+460,Closed,"[TM3_Accounting_Module] : for Manual Accounting Entries, MISC1 column is showing Blank in GLLawsonDetails Page",3,18/12/2015,Test/SIT,Defect,13/1/2016 9:04,13/1/2016,Coding Issue
+461,Closed,"[TM3_Accounting_Module] : NULL value is showing instead of Blank in GLLawsonDetails Table for Columns : CostCenter, OLDACCT",3,18/12/2015,Test/SIT,Defect,7/1/2016 21:37,8/1/2016,Build & Configuration Related Issue
+462,Closed,[TM3_MIGRATION] Data mismatch in Booking Table in DistributorId column.,3,18/12/2015,Development,Defect,7/1/2016 11:31,28/12/2015,Coding Issue
+463,Closed,[TM3_PI&C] : Application date is changing during policy change process,2,18/12/2015,Test/SIT,Defect,7/1/2016 4:54,7/1/2016,Coding Issue
+464,Closed,[TM3_PI&C] : Unable to save policy changes to the policy with medical questions answered during issue,2,18/12/2015,Test/SIT,Defect,13/1/2016 22:15,14/1/2016,Coding Issue
+465,Closed,[TM3_Q&I_Confirmations] - Medical Questionnaire not displaying properly,3,17/12/2015,Test/SIT,Defect,30/12/2015 20:42,30/12/2015,Environment Issue
+466,Closed,[TM3_PI&C_Confirmations] : Unable to generate and view confirmation the result of the policy change,3,19/12/2015,Test/SIT,Defect,13/1/2016 12:53,13/1/2016,Coding Issue
+467,Ready to Retest,[TM3_Q&I] : Local vs UTC date and Coverage Start date for OCM,3,19/12/2015,Test/SIT,Defect,20/1/2016 13:02,,Build & Configuration Related Issue
+468,Closed,[TM3_PI&C] : Void vs cancel and same day CC payments,2,20/12/2015,Test/SIT,Defect,7/1/2016 15:14,7/1/2016,Coding Issue
+469,Closed,[TM3_PI&C] Clarification:Previous value against the column 'Action' in the 'Asset History' section is not displaying in Bold,4,20/12/2015,Test/SIT,Watch List,6/1/2016 23:13,7/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+470,Closed,[TM3_PI&C] Field mismatch in the 'Payment Detail' screen,4,20/12/2015,Test/SIT,Defect,27/12/2015 21:18,28/12/2015,Requirement Issue - Ambiguous/Unclear Requirement
+471,Closed,"[TM3_PI&C_Module] : Multi Trip Duration Name? ""MTD00066"" for Trip days ? 30 is missing in the lookup searched list",3,21/12/2015,Test/SIT,Defect,24/12/2015 6:49,24/12/2015,Coding Issue
+472,Closed,[TM3_PI&C_Module ] : Coverage End Date field is editable for Policies where Plan = Traveling Canadian / Multi Trip,3,21/12/2015,Test/SIT,Defect,23/12/2015 6:22,23/12/2015,Coding Issue
+473,Closed,"[TM3_PI&C] User is able to change the field ""# of Dependent Children/Grandchildren"" for Single TRIP Travel Canada Emergency Medical Plan",3,21/12/2015,Test/SIT,Defect,23/12/2015 21:30,24/12/2015,Coding Issue
+474,Closed,[TM3_Migration]The structure of policy table and booking table is different from the specification,2,21/12/2015,Development,Defect,17/1/2016 22:48,18/1/2016,Requirement Issue - Change in Requirement
+475,Closed,[TM3_PI&C] : Able to change DOB from MQ required age (>59) to MQ NOT required age (<59),3,21/12/2015,Test/SIT,Defect,23/12/2015 21:57,24/12/2015,Requirement Issue - Change in Requirement
+476,Closed,"[TM3_Q&I] Unable to generate policy number, error shown as ""Policy Foreign key constraint violations while performing insert operation"" in step 5",1,21/12/2015,Test/SIT,Defect,30/12/2015 2:27,30/12/2015,Coding Issue
+477,Closed,[TM3_Migration]Data mismatch is present for policy number '5A82314Z',2,21/12/2015,Development,Defect,13/1/2016 22:26,14/1/2016,Build & Configuration Related Issue
+478,Closed,[TM3 ACM feed] date columns not correct format,3,21/12/2015,Test/SIT,Defect,13/1/2016 12:54,13/1/2016,Environment Issue
+479,Ready to Retest,[TM3_Reports] GL Configuration Report Defects,3,21/12/2015,Development,Defect,29/12/2015 9:04,30/12/2015,Coding Issue
+480,Closed,"[TM3_PI&C] : ""Total Trip Cost"" field accepting and saving value for MTAI plan where Trip Cost is not applicable.",3,21/12/2015,Test/SIT,Defect,21/1/2016 3:34,21/1/2016,Coding Issue
+481,Closed,[TM3_Migration] The count in correspondence table does not match with that of stg.WynsureCorrespondence,2,22/12/2015,Development,Defect,7/1/2016 11:31,28/12/2015,Architecture Issue
+482,Closed,"[TM3_PI&C] User is able to change the fields ""first name"" or ""last name""  for Single TRIP Travel Canada Emergency Medical Plan",3,22/12/2015,Test/SIT,Defect,28/12/2015 4:44,28/12/2015,Coding Issue
+483,Closed,"[TM3_PI&C] : STP - Changes in ""Opportunity Extensions"" date fields is not being updated in TRIP Database.",2,21/12/2015,Test/SIT,Defect,4/1/2016 6:12,4/1/2016,Coding Issue
+484,Retested,[TM3_PI&C] Requirement issue: System is not displaying proper error message if user enters invalid value or blank value in 'Asset' while generating new confirmation,4,21/12/2015,Test/SIT,Defect,21/1/2016 12:46,,Requirement Issue - Ambiguous/Unclear Requirement
+485,Closed,[TM3_Migration] The count in policy.contactphone table does not match with that of policy table for 5A policies,2,22/12/2015,Development,Defect,13/1/2016 22:25,14/1/2016,Coding Issue
+486,Retested,[TM3_PI&C] System is not displayimg any error message if user changed the 'Asset' value with a valid one while generating new asset confirmation,3,22/12/2015,Test/SIT,Defect,21/1/2016 12:47,,Requirement Issue - Ambiguous/Unclear Requirement
+487,Closed,[TM3_Migration] Data mismatch is present for policy no '5A82551K',2,22/12/2015,Development,Defect,13/1/2016 22:25,14/1/2016,Coding Issue
+488,Fixed,[TM3_Accounting] : LastModifiedDateTime is not getting updated after modification of Expiry date column.,3,22/12/2015,Test/SIT,Defect,21/1/2016 1:43,,Environment Issue
+489,Closed,"[TM3_Accounting_Module] : ""AccountingEntity"" column is showing blank instead of showing GLAccounting.Legal value which is NULL",3,22/12/2015,Test/SIT,Defect,30/12/2015 3:40,30/12/2015,Coding Issue
+490,Closed,[TM3_PI&C] On 'Save' asset confirmation <Date Generated> value is not getting auto populated with current system date,3,22/12/2015,Test/SIT,Defect,7/1/2016 6:51,7/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+491,Closed,[TM3_PI&C] Field level issues while generating new asset confirmation,3,22/12/2015,Test/SIT,Defect,20/1/2016 22:32,21/1/2016,Build & Configuration Related Issue
+492,Retested,[TM3_PI&C] System is not displaying any error message when user clicks on the 'Edit' button in the 'Oppurtunity Detail' screen and the opportunity is in 'Closed Won' stage,2,22/12/2015,Test/SIT,Defect,30/12/2015 8:51,,Build & Configuration Related Issue
+493,Closed,[TM3 PI&C] Confirmation Void Policy - header not correct,3,22/12/2015,Test/SIT,Defect,29/12/2015 11:55,29/12/2015,Design Issue
+494,Closed,[TM3_PI&C] VTC - Canadian Arrival Date is not showing up in Opportunity Extensions screen of SalesForce,2,22/12/2015,Test/SIT,Defect,3/1/2016 20:43,4/1/2016,Coding Issue
+495,Closed,[TM3 PI&C] Confirmation Void Policy - Policy Status is Active (instead of Void),3,22/12/2015,Test/SIT,Defect,13/1/2016 14:56,13/1/2016,Coding Issue
+496,Closed,[TM3_Confirmation] :  Confirmation Void Policy - diplaying BounceBack Benefit,3,22/12/2015,Test/SIT,Defect,29/12/2015 11:56,29/12/2015,Coding Issue
+497,Closed,[TM3 Q&I All confirmations] Street Number not displaying,3,22/12/2015,Test/SIT,Defect,30/12/2015 13:32,30/12/2015,Build & Configuration Related Issue
+498,Closed,[TM3 CAR feed] date format different from requirement,3,22/12/2015,Test/SIT,Defect,13/1/2016 12:55,13/1/2016,Environment Issue
+499,Closed,[TM3 ATF feed] DOB date format different from requirement,3,22/12/2015,Test/SIT,Defect,5/1/2016 12:54,5/1/2016,Build & Configuration Related Issue
+500,Closed,"[TM3_Q&I] WhenTravellers Age is greater than Plan/Family maximum age for VTC plan, clicking on 'OK' on the error message system gets hung up",2,22/12/2015,Test/SIT,Defect,30/12/2015 3:36,30/12/2015,Coding Issue
+501,Reopen,[TM3_Q&I] The system displays an error message when medical questions are answered in a particular format.,3,23/12/2015,Test/SIT,Watch List,6/1/2016 14:45,,Build & Configuration Related Issue
+502,Closed,[TM3_Q&I] : Cheque payment option missing for LIA,1,23/12/2015,Test/SIT,Defect,29/12/2015 23:05,30/12/2015,Coding Issue
+503,Closed,[TM3_Q&I] Age is getting calculated from purchase date not from coverage start date for plan VTC and Student,2,22/12/2015,Test/SIT,Defect,30/12/2015 11:33,30/12/2015,Coding Issue
+504,Closed,[TM3_ Reports] - Unreleased Manual Accounting Report Defects,3,23/12/2015,Test/SIT,Defect,21/1/2016 10:54,21/1/2016,Coding Issue
+505,Closed,[TM3_PI&C] Age is getting calculated from purchase date not from coverage start date for plan VTC and Student,2,24/12/2015,Test/SIT,Defect,14/1/2016 2:46,14/1/2016,Coding Issue
+506,Closed,"[TM3_Accounting_Module] : ApprovedBy, ApproveDateTime is also getting populated for Batch transactions in GLAccounting Table",3,24/12/2015,Test/SIT,Defect,14/1/2016 4:49,14/1/2016,Build & Configuration Related Issue
+507,Closed,"[TM3_PI&C_Age] System is displaying error message when the age is equal to maximum plan age (OCM=120 yrs, VTC=85 YRS, Student=54 yrs)",2,24/12/2015,Test/SIT,Defect,14/1/2016 3:52,14/1/2016,Coding Issue
+508,Closed,[TM3_Q&I] User is able to pay by only two cards even when three plans are selected,3,24/12/2015,Test/SIT,Defect,20/1/2016 23:27,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+509,Closed,[TM3_Migration]The departure and destination id is showing up in policy table for a policy which has departure and destination Id set as null in stg.wynsureProduct table.,3,24/12/2015,Development,Defect,7/1/2016 11:32,6/1/2016,Build & Configuration Related Issue
+510,Closed,[TM3_Q&I] Final Recap Page,4,24/12/2015,Test/SIT,Defect,12/1/2016 23:09,13/1/2016,Build & Configuration Related Issue
+511,Closed,[TM3_Q&I] Clarification :Trip Amount field,4,24/12/2015,Test/SIT,Watch List,28/12/2015 21:30,29/12/2015,Requirement Issue - Inadequate/Missing Requirement
+512,Closed,[TM3_Migration] Discrepancy is observed for policy number '5a0080864p',3,24/12/2015,Development,Defect,13/1/2016 22:24,14/1/2016,Coding Issue
+513,Open,[TM3_Q&I] Medical Questionnaire - Ineligibility message flashes followed by multiple error messages in one pop-up,3,27/12/2015,Test/SIT,Defect,16/1/2016 14:25,,
+514,Ready to Retest,[TM3_Q&I] Selected Plan Recap page - Trip Amount is missing,3,27/12/2015,Test/SIT,Defect,12/1/2016 23:23,,Build & Configuration Related Issue
+515,Open,"[TM3_Accounting] : As per Latest Spec doc, Changes required in Column positions in GLAccounting Table. Columns are - Value, BatchID",2,27/12/2015,Test/SIT,Defect,16/1/2016 9:32,,
+516,Closed,[TM3_Q&I] Destination field in Application page shows other/others,4,27/12/2015,Test/SIT,Defect,13/1/2016 3:38,13/1/2016,Build & Configuration Related Issue
+517,Ready to Retest,[TM3_Q&I] Issue with International Province. Fails for STP plans,2,27/12/2015,Test/SIT,Defect,21/1/2016 23:15,,Environment Issue
+518,Closed,[TM3_Q&I] The system navigates back to step4(applicant details) page when next button is clicked on Final Recap page(Step5),1,28/12/2015,Test/SIT,Defect,29/12/2015 21:45,29/12/2015,Coding Issue
+519,Closed,[TM3_Q&I]The coverage end date is not displayed for Multi Trip all Inclusive plan in Selected Plan Recap page.,3,28/12/2015,Test/SIT,Defect,13/1/2016 2:16,13/1/2016,Build & Configuration Related Issue
+520,Closed,[TM3_Q&I_UX] Content Mismatch in Step 1 - first page for Top-Up,4,28/12/2015,Test/SIT,Defect,29/12/2015 22:12,30/12/2015,Build & Configuration Related Issue
+521,Closed,[TM3_Accounting_Module] : ALTDATE column is filled with some date value instead of showing Blank,3,27/12/2015,Test/SIT,Defect,30/12/2015 3:46,30/12/2015,Design Issue
+522,Closed,[TM3_PI&C_Age] System is not allowing to change DOB when the age is even less than 59,2,28/12/2015,Test/SIT,Defect,30/12/2015 3:50,30/12/2015,Coding Issue
+523,Closed,"[TM3_Accounting_Module] : GLLawsonResidenceCodeID  is showing ""NULL"" value for GLAccountInformationID = 5,8,13",2,28/12/2015,Test/SIT,Defect,7/1/2016 6:12,7/1/2016,Build & Configuration Related Issue
+524,Closed,"[TM3_Q&I] Step 1 - The contents do not match for ""Applicant Date of Birth and Age field"" in quote step1 page.",3,28/12/2015,Test/SIT,Defect,13/1/2016 2:32,13/1/2016,Build & Configuration Related Issue
+525,Closed,[TM3_Q&I] Step 1 - Travelling Companion question is not present in Top up plan when number of traveller is 1,2,28/12/2015,Test/SIT,Defect,29/12/2015 21:57,30/12/2015,Build & Configuration Related Issue
+526,Closed,[TM3_Q&I] Clarification- Deductible field missing $ sign,4,28/12/2015,Test/SIT,Watch List,29/12/2015 11:00,29/12/2015,Build & Configuration Related Issue
+527,Closed,[TM3_PI&C_Age] System is accepting age=29 days for Trip cancellation and Interruption,2,29/12/2015,Test/SIT,Defect,4/1/2016 4:42,4/1/2016,Environment Issue
+528,Closed,"[TM3_Accounting_Module] : [GLAccounting].Legal"" column is showing NULL value where GLAccountInformationID = 13",3,29/12/2015,Test/SIT,Defect,7/1/2016 3:55,7/1/2016,Environment Issue
+529,Closed,[TM3_Accounting_Module] : TagName = ?Legal? not found in GLTags table where GLTags. IsDefault = False and ValueType = ?V?,2,29/12/2015,Test/SIT,Defect,7/1/2016 21:33,8/1/2016,Build & Configuration Related Issue
+530,Ready to Retest,"[TM3_Accounting_Module] : ""[GLAccounting].AccountingUnit"" column is showing NULL value where GLAccountInformationID = 13",2,29/12/2015,Test/SIT,Defect,20/1/2016 13:04,11/1/2016,Build & Configuration Related Issue
+531,Rejected,[TM3_Confirmation] :  Confirmation Void Policy - diplaying Cover Letter even though None is chosen,3,29/12/2015,Test/SIT,Defect,31/12/2015 9:28,31/12/2015,Test Plan issue - Invalid Test Case
+532,Rejected,"[TM3 Product] - Product Activated, but status not reflected in the Product view",4,29/12/2015,Test/SIT,Defect,29/12/2015 13:32,29/12/2015,Environment Issue
+533,Closed,[TM3_Q&I] The system navigates back to step4(applicant details) page when next button is clicked on Final Recap page(Step5),2,28/12/2015,Test/SIT,Defect,6/1/2016 6:54,6/1/2016,Coding Issue
+534,Open,[TM3_PI&C] The system navigates to salesforce home page when add payment is selected from the opportunity Edit screen for Void policy.[PC01-FR956 req number],3,30/12/2015,Test/SIT,Defect,30/12/2015 5:28,,
+535,Closed,"[TM3_Q&I_Module] : System is showing error message ? ""Please Contact Admin"" in Final recap page while selecting payment method = ""Pay by Cheque""",1,30/12/2015,Test/SIT,Defect,5/1/2016 6:53,5/1/2016,Database Issue
+536,Open,"[TM3_Q&I] VTC_User is redirected to Step-4 Application page,on clicking [Continue] in the PCI payment page.",4,30/12/2015,Test/SIT,Watch List,3/1/2016 20:59,,
+537,Closed,[TM3_PI&C]The outstanding amount field is not displayed in 'Payment Edit' Screen.,3,30/12/2015,Test/SIT,Defect,22/1/2016 4:18,22/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+538,Ready to Retest,"[TM3_PI&C] Unwanted data present in ""Host Address Line 1"" field for STAI plan",3,30/12/2015,Test/SIT,Defect,21/1/2016 1:23,13/1/2016,Coding Issue
+539,Closed,[TM3_PI&C]The default values in the 'Payment Reason' and payment type field is not matching with the requirement.,3,30/12/2015,Test/SIT,Defect,21/1/2016 11:01,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+540,Closed,[TM3_Q&I_UX] Step-1 'Covered Days' field is missing for EMTU plan,4,30/12/2015,Test/SIT,Defect,6/1/2016 4:27,6/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+541,Closed,[TM3_PI&C]: After unchecking 'On Hold' Indicator system is still displaying policy change error message,4,30/12/2015,Test/SIT,Defect,13/1/2016 3:10,13/1/2016,Coding Issue
+542,Closed,[TM3_PI&C] The cc expiry date in payment detail page does not match with the expiry date entered in the PCI Payment Form.[req no-PC01-FR427],3,30/12/2015,Test/SIT,Defect,14/1/2016 1:54,14/1/2016,Coding Issue
+543,Closed,[TM3_PI&C]: User is not able to 'Reinstate' or 'Cancel Policy' when 'On/Off Hold Indicator' is checked,2,30/12/2015,Test/SIT,Defect,21/1/2016 10:48,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+544,Closed,[TM3 Q&I Confirmation] Student National & Outbound not displaying applicant's address,3,30/12/2015,Test/SIT,Defect,13/1/2016 14:56,13/1/2016,Coding Issue
+545,Closed,"[TM3 Q&I Confirmation] Student National, Outbound & VTC A Family title trademark is not correct",3,30/12/2015,Test/SIT,Defect,13/1/2016 14:56,13/1/2016,Build & Configuration Related Issue
+546,Ready to Retest,[TM3_Q&I_UX] CR - Step 1 - Need Plan Options for VTC and Top-Up in order to improve the mobile experience,2,30/12/2015,Development,Defect,20/1/2016 22:07,,Requirement Issue - Change in Requirement
+547,Closed,[TM3 Q&I Confirmation] National Student missing host phone number,3,30/12/2015,Test/SIT,Defect,13/1/2016 14:56,13/1/2016,Coding Issue
+548,Closed,[TM3 Q&I Confirmation] Outbound & National Student missing emergency contact info,3,30/12/2015,Test/SIT,Defect,13/1/2016 14:56,13/1/2016,Coding Issue
+549,Closed,[TM3_Q&I] Step 1 - Change to values in Destination picklist,4,30/12/2015,Test/SIT,Defect,13/1/2016 23:53,14/1/2016,Build & Configuration Related Issue
+550,Closed,[TM3_Confirmation] All Products - Cover Letter trademark is not correct,3,30/12/2015,Test/SIT,Defect,13/1/2016 13:00,13/1/2016,Build & Configuration Related Issue
+551,Closed,[TM3 Q&I Confirmation] Student Products - Cover Letter not displaying address,3,30/12/2015,Test/SIT,Defect,13/1/2016 14:57,13/1/2016,Coding Issue
+552,Closed,[TM3 Q&I Confirmation] All Products - Cover Letter footer not displaying properly,3,30/12/2015,Test/SIT,Defect,13/1/2016 14:57,13/1/2016,Build & Configuration Related Issue
+553,Closed,[TM3_Confirmation] VTC Products - Cover Letter first sentence is not correct,3,30/12/2015,Test/SIT,Defect,13/1/2016 13:02,13/1/2016,Build & Configuration Related Issue
+554,Closed,[TM3 Q&I Confirmation] Policy Change Additional Transactions to display 2 decimals,4,30/12/2015,Test/SIT,Defect,7/1/2016 22:45,8/1/2016,Coding Issue
+555,Open,[TM3_PI&C]: Clarification: 'Destination' field is non-editable in Oppurtunity Extension screen,3,30/12/2015,Test/SIT,Defect,21/1/2016 5:27,,Requirement Issue - Ambiguous/Unclear Requirement
+556,Closed,[TM3_PI&C] Premium Amount is incorrect after changing Deductible Amount for STEM plan,2,31/12/2015,Test/SIT,Defect,6/1/2016 22:29,7/1/2016,Coding Issue
+557,Ready to Retest,"[TM3_Q&I] VTC_Plan B_""Pre-existing condition exclusion"" section not shown",3,31/12/2015,Test/SIT,Defect,13/1/2016 4:12,7/1/2016,Coding Issue
+558,Closed,"[TM3_PI&C] On clicking the get quote button from opportunity detail page ""The System does not display any message""[REQ NO-PC01-FR479]",3,31/12/2015,Test/SIT,Defect,7/1/2016 1:27,7/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+559,Closed,[TM3_Q&I] VTC_Step 1_Content Mismatch.,4,31/12/2015,Test/SIT,Defect,18/1/2016 22:55,19/1/2016,Build & Configuration Related Issue
+560,Closed,[TM3_Q&I] VTC_ Content error.,4,31/12/2015,Test/SIT,Defect,18/1/2016 23:00,19/1/2016,Build & Configuration Related Issue
+561,Closed,"[TM3_Q&I] Number of credit card shown as more than one even when ""No Split"" is selected",3,31/12/2015,Test/SIT,Defect,20/1/2016 23:32,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+562,Closed,[TM3_PI&C] Premium Amount is incorrect after adding insured to STEM family policy,2,31/12/2015,Test/SIT,Defect,7/1/2016 5:21,7/1/2016,Test Plan issue - Invalid Test Case
+564,Closed,[TM3_PI&C] Premium Amount is incorrect after changing Insured Age for STEM plan,2,3/1/2016,Test/SIT,Defect,12/1/2016 23:21,13/1/2016,Coding Issue
+565,Closed,[TM3_Q&I_Copy]: Content mismatch in the 'Thank You' page while generating online confirmation,3,3/1/2016,Test/SIT,Defect,15/1/2016 12:54,15/1/2016,Coding Issue
+566,Open,[TM3_Correspondence]: Clarification: Policy package is still available after the browser window is closed,4,3/1/2016,Test/SIT,Watch List,13/1/2016 23:57,,
+567,Closed,[TM3_Confirmations]There is a mismatch in the contents of the confirmation email for VTC plan when compared to the requirement.,3,4/1/2016,Test/SIT,Defect,6/1/2016 1:31,6/1/2016,Build & Configuration Related Issue
+568,Closed,[TM3_Confirmations] Null values are displayed in the policy confirmation pdf for VTC plan.,3,4/1/2016,Test/SIT,Defect,13/1/2016 3:38,13/1/2016,Coding Issue
+569,Closed,[TM3_Q&I] STP : Step 5-Final Recap_School Information Missing,3,4/1/2016,Test/SIT,Defect,13/1/2016 4:46,13/1/2016,Build & Configuration Related Issue
+570,Open,[TM3_Q&I_COPY] STP : Step - 2_Mismatches in Benefit Features section,3,4/1/2016,Test/SIT,Defect,16/1/2016 15:58,,
+571,Ready to Retest,[TM3_Q&I] STP_ Help Text missing on page Step 1 and Step 3 .,4,4/1/2016,Test/SIT,Defect,13/1/2016 5:07,,Build & Configuration Related Issue
+572,Closed,[TM3_Q&I_COPY] STP_Step 1_ Help Text mismatch,4,4/1/2016,Test/SIT,Defect,18/1/2016 23:16,19/1/2016,Build & Configuration Related Issue
+573,Closed,[TM3_Accounting] : Multiple coulmns in GL Accounting Table is showing either'0' or NULL value for Manual Accounting Entries,2,4/1/2016,Test/SIT,Defect,21/1/2016 3:15,21/1/2016,Coding Issue
+574,Closed,[TM3_Confirmations]The content in the confirmation email for OCM plans does not match with the requirement,3,4/1/2016,Test/SIT,Defect,13/1/2016 14:11,13/1/2016,Testing Issue - Oversight of Testing Requirements
+575,Ready to Retest,"[TM3_Accounting] : For Student plans, GLLawsonResidneceCodeID is showing NULL where GLAccountInformation = 1",3,4/1/2016,Test/SIT,Defect,20/1/2016 13:05,21/1/2016,Coding Issue
+576,Ready to Retest,[TM3_PI&C]: While cancelling a policy payment refund is going for approval when the amount<$2500,3,3/1/2016,Test/SIT,Watch List,21/1/2016 13:18,21/1/2016,Coding Issue
+577,Closed,[TM3_PI&C] Age- Error message is not consistent with other plan when age< 30 days for plan=Trip cancellation and Interruption,4,4/1/2016,Test/SIT,Defect,20/1/2016 23:17,21/1/2016,Design Issue
+578,Closed,[TM3_Confirmation]The address fields are not getting displayed for Students Plan in the policy confimation pdf.,3,4/1/2016,Test/SIT,Defect,14/1/2016 2:52,14/1/2016,Coding Issue
+579,Closed,[TM3_Correspondence]: Field level display issue in the section 'Applicant and coverage information' in policy package pdf,3,4/1/2016,Test/SIT,Defect,13/1/2016 3:31,13/1/2016,Coding Issue
+580,Duplicate,[TM3_Correspondence] : Confirmation Policy - Header not correct,3,4/1/2016,Test/SIT,Defect,5/1/2016 12:58,5/1/2016,Build & Configuration Related Issue
+581,Closed,[TM3_Correspondence]: Content mismatch in the 'Third  Party Assistance Information' for Student plan,4,4/1/2016,Test/SIT,Defect,6/1/2016 1:14,6/1/2016,Build & Configuration Related Issue
+582,Rejected,[TM3_Q&I] : Emergency contact info in TRIP database for Inbound STP,2,4/1/2016,Test/SIT,Defect,5/1/2016 12:52,5/1/2016,Architecture Issue
+583,Closed,[TM3_Correspondence]: Clarification: Medical questionnaire paragraph is not displaying before questionnaire section,4,4/1/2016,Test/SIT,Defect,11/1/2016 22:30,12/1/2016,Coding Issue
+592,Ready to Retest,[TM3_Q&I_UX] - Choose a Plan Font Type and Size Needs to be the Same,3,4/1/2016,Test/SIT,Defect,20/1/2016 13:06,,Build & Configuration Related Issue
+595,Ready to Retest,[TM3_Q&I_UX] - Progress Bar UX Related Defects,3,4/1/2016,Test/SIT,Defect,18/1/2016 14:09,,Build & Configuration Related Issue
+598,Duplicate,[TM3_Q&I] : Step 4 - Application Page - VTC- Family - Host Contact Information requested for both travellers,3,4/1/2016,Test/SIT,Defect,18/1/2016 14:46,18/1/2016,Coding Issue
+599,Ready to Retest,[TM3_Q&I_UX] - Plan Selector Boxes Related Defects,3,4/1/2016,Test/SIT,Defect,20/1/2016 13:06,,Build & Configuration Related Issue
+600,Closed,[TM3_Q&I Confirmation]  VTC- Family - Family multiplier X missing,3,4/1/2016,Test/SIT,Defect,7/1/2016 22:45,8/1/2016,Coding Issue
+601,Ready to Retest,[TM3_Q&I_UX] - Product Related Title and Copy Content Box are not Consistent Across Products,3,4/1/2016,Test/SIT,Defect,20/1/2016 13:07,21/1/2016,Coding Issue
+604,Open,[TM3_Q&I_UX] - Update Questions to be Yes/No Toggles,3,4/1/2016,Test/SIT,Defect,16/1/2016 16:12,,
+605,Ready to Retest,[TM3_Confirmations] : Province info is missing on Correspondence for Canadian addresses on OCM policies,3,4/1/2016,Test/SIT,Defect,21/1/2016 21:21,8/1/2016,Coding Issue
+606,Closed,[TM3_Q&I] : Info for address line 1  in payload and TRIP database  for Home Country Address,2,4/1/2016,Test/SIT,Defect,13/1/2016 22:16,14/1/2016,Build & Configuration Related Issue
+607,Open,"[TM3_Q&I] Medical Questionnaire_On clicking ""No"" in Section 1- Your Declaration page. System gets stuck",3,4/1/2016,Test/SIT,Defect,12/1/2016 21:38,,
+608,Closed,[TM3_PI&C] Premium Amount is incorrect after changing Trip Duration for STAI plan,2,5/1/2016,Test/SIT,Defect,12/1/2016 23:37,13/1/2016,Coding Issue
+609,Closed,[TM3_Q&I] MTEM plan_Final Recap page.,4,4/1/2016,Test/SIT,Defect,13/1/2016 5:20,13/1/2016,Build & Configuration Related Issue
+610,Open,[TM3_Q&I] Clarification on content,4,5/1/2016,Test/SIT,Watch List,6/1/2016 22:12,,
+611,Closed,[TM3_Correspondence]: A blank gap is getting displayed between 'Information Verification' and 'Medical Questionnaire' in the generated confirmation after policy change,4,5/1/2016,Test/SIT,Defect,7/1/2016 2:53,7/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+612,Closed,[TM3_Confirmation]The family multiplier for OCM[Family coverage] is incorrectly displayed in the policy confirmaton.,3,5/1/2016,Test/SIT,Defect,7/1/2016 2:22,7/1/2016,Coding Issue
+613,Closed,[TM3_Correspondence]: Gender column is not displaying in the Family breakdown section of policy package in the generated confirmation for Travelling canadian and VTC,3,5/1/2016,Test/SIT,Defect,7/1/2016 3:59,7/1/2016,Existing Production Issue
+614,Fixed,[TM3_Q&I_Copy] Payment section_field label mismatch,3,5/1/2016,Test/SIT,Defect,19/1/2016 8:48,,Build & Configuration Related Issue
+615,Open,"[TM3_Q&I_LIA] ""Clear All"" indicator missing from Medical Questionnaire for LIA user",3,5/1/2016,Test/SIT,Defect,16/1/2016 12:42,,
+616,Open,[TM3_Q&I_LIA] LIA Medical Script missing,3,5/1/2016,Test/SIT,Defect,19/1/2016 19:58,,
+617,Closed,[TM3_PI&C] Premium Amount is incorrect after changing Multi Trip Duration for MTEM plan,2,5/1/2016,Test/SIT,Defect,13/1/2016 4:00,13/1/2016,Coding Issue
+618,Closed,[TM3_Correspondence]: 'Relationship To Applicant' field is displaying as 'Relationship To' in the family breakdown section after generating confirmation in policy  change,4,5/1/2016,Test/SIT,Defect,7/1/2016 4:05,7/1/2016,Existing Production Issue
+619,Closed,[TM3_Confirmation] The last line of the Cover Letter for Vtc plan does not match with the requirement.,3,5/1/2016,Test/SIT,Defect,7/1/2016 2:39,7/1/2016,Existing Production Issue
+620,Closed,[TM3_Confirmation] The first line of the header in cover letter for policy cancellation does not match with the requirement.req no [CORR01-FR089],3,5/1/2016,Test/SIT,Defect,14/1/2016 3:52,14/1/2016,Design Issue
+621,Closed,[TM3_Confirmation]: First sentence of the Policy change cover letter is not as expected and displaying CoverMe? instead of CoverMe?,4,5/1/2016,Test/SIT,Defect,14/1/2016 22:20,15/1/2016,Design Issue
+622,Open,[TM3_Correspondence]: Clarification: 'Policy Correction' drop down is not present in the 'Cover Letter' drop down for generating policy correction cover letter,4,5/1/2016,Test/SIT,Watch List,6/1/2016 11:13,,
+623,Closed,"[TM3_Accounting_Module] : [INST_TRIP_T1].program.GlobalSetting table does not have row entry for ""Legal "" (i.e - 0001)",2,4/1/2016,Test/SIT,Defect,6/1/2016 23:48,7/1/2016,Build & Configuration Related Issue
+624,Closed,[TM3_Confirmation]: Policy correction cover letter content mismatch with requirement,3,5/1/2016,Test/SIT,Defect,14/1/2016 23:36,15/1/2016,Design Issue
+625,Ready to Retest,[TM3_Confirmations] : Application date on the confirmation does not take into  account time offset,2,5/1/2016,Test/SIT,Defect,14/1/2016 3:48,13/1/2016,Coding Issue
+626,Closed,[TM3_Migration] Marketing code not migrated,2,5/1/2016,Development,Defect,19/1/2016 5:15,19/1/2016,Coding Issue
+627,Closed,[TM3_PI&C] Premium Amount is getting changed on changing Coverage Start Date for MTAI plan,2,5/1/2016,Test/SIT,Defect,13/1/2016 4:27,13/1/2016,Coding Issue
+628,Closed,[TM3_Accounting_Module] : GLLawsonDetails.PostingDate and GLAccounting.PostingDate  format is not correct.,3,6/1/2016,Test/SIT,Defect,7/1/2016 21:14,8/1/2016,Environment Issue
+629,Closed,[TM3_Accounting_Module] : GLLawsonDetails table does not get updated for Manual Accounting Entries policy numbers,2,6/1/2016,Test/SIT,Defect,13/1/2016 22:37,14/1/2016,Coding Issue
+630,Open,[TM3_Q&I_Browser] EMTU_Step 1_ random picklist values shown in IE11,3,6/1/2016,Test/SIT,Defect,7/1/2016 5:17,,
+631,Closed,[TM3_Correspondence]: Clarification: User is not able to generate policy package for partial premium refund as there is no option present in the 'Cover Letter' drop down while generating confirmation,3,6/1/2016,Test/SIT,Watch List,11/1/2016 21:55,12/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+632,Open,[TM3_Q&I_Copy] EMTU_ Step 2: Quote Comparison page_Benefits mismatch,3,6/1/2016,Test/SIT,Defect,7/1/2016 5:19,,
+633,Closed,[TMR_Confirmation]The relationship to applicant field is showing as blank in OCM STTCEM plan.,3,6/1/2016,Test/SIT,Defect,7/1/2016 3:36,7/1/2016,Environment Issue
+634,Closed,[TM3_Correspondence]: In the Family Breakdown section 'Gender' is not displaying in Word it is displaying in single letter,4,6/1/2016,Test/SIT,Defect,7/1/2016 3:30,7/1/2016,Environment Issue
+635,Closed,[TM3_Accounting_Module] : GLLawsonDetail.AccountingEntity is showing NULL value,2,6/1/2016,Test/SIT,Defect,14/1/2016 4:59,14/1/2016,Testing Issue - Test Planning/Strategy Issue
+636,Ready to Retest,[TM3_Q&I] EMTU_Companion Question not showing,3,6/1/2016,Test/SIT,Defect,21/1/2016 21:46,,Build & Configuration Related Issue
+637,Closed,[TM3_PI&C] System is showing unexpcted error message while user is clicking on [Policy Change] button,3,5/1/2016,Test/SIT,Defect,13/1/2016 4:55,13/1/2016,Coding Issue
+638,Closed,[TM3_Correspondence]: Null value is displaying both in the confirmation and policy inquiry change for the field 'Host Address Line1',3,6/1/2016,Test/SIT,Defect,14/1/2016 5:18,14/1/2016,Coding Issue
+639,Closed,[TM3_Accounting_Module] : GLLawsonDetail.UnitAmount is showing NULL value instead of showing Blank value,4,6/1/2016,Test/SIT,Defect,14/1/2016 22:15,15/1/2016,Build & Configuration Related Issue
+640,Closed,[TM3_Confirmations] : Format for coverage and deductible is incorrect,3,6/1/2016,Test/SIT,Defect,18/1/2016 13:45,18/1/2016,Coding Issue
+641,Closed,[TM3_Migration]Data mismatch is observed for policy number:'5A80111I',3,6/1/2016,Development,Defect,13/1/2016 22:25,14/1/2016,Coding Issue
+642,Closed,[TM3_PI&C] Asset Search result display is incorrect,3,6/1/2016,Test/SIT,Defect,22/1/2016 1:29,22/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+643,Duplicate,NOT DEFECT - Huge Payload Development Tracking,1,7/1/2016,Test/SIT,Watch List,19/1/2016 20:06,7/1/2016,Design Issue
+644,Fixed,[TM3_Q&I_Browser] Not able to issue policy in IE11,2,7/1/2016,Test/SIT,Defect,20/1/2016 8:12,14/1/2016,Coding Issue
+645,Open,[TM3_PI&C] Unable to void a policy where Coverage start date = System date,2,6/1/2016,Test/SIT,Defect,7/1/2016 8:37,,
+646,Closed,[TM3_PI&C] Unable to commit a policy after changing the policy status from Active to Void,2,7/1/2016,Test/SIT,Defect,14/1/2016 1:56,14/1/2016,Coding Issue
+647,Open,[TM3_Q&I_COPY] VTC_ Step 2_Benefits  display order mismatch.,4,7/1/2016,Test/SIT,Defect,16/1/2016 14:54,,
+648,Closed,[TM3_Correspondence]: After editing 'Asset confirmation' system is not generating the changed cover letter,2,7/1/2016,Test/SIT,Defect,11/1/2016 21:56,12/1/2016,Existing Production Issue
+649,Ready to Retest,[TM3_PI&C] Unexpected Error found on clicking Commit button twice,2,7/1/2016,Test/SIT,Defect,22/1/2016 3:04,18/1/2016,Coding Issue
+650,Open,[TM3_Q&I_UX_Other]: Mobile UI issues in Quote and Issue mobile browser,3,7/1/2016,Test/SIT,Defect,16/1/2016 9:33,,
+651,Closed,[TM3_PI&C] Unexpected error found on clicking Commit button,2,7/1/2016,Test/SIT,Defect,14/1/2016 21:29,15/1/2016,Architecture Issue
+652,Closed,"[TM3_PI&C]: In the 'Assets' tab all column headings are not displaying now for 'All Assets', previously it was displaying",4,7/1/2016,Test/SIT,Defect,14/1/2016 7:20,14/1/2016,Build & Configuration Related Issue
+653,Closed,[TM3_Migration]No record is found in premiumadjustmentInstance table for for policy number:'5A80111I',3,7/1/2016,Development,Defect,18/1/2016 11:07,18/1/2016,Coding Issue
+654,Closed,[TM3_Migration] Data missing in CorrespondenceIntermediate table,3,7/1/2016,Development,Defect,11/1/2016 19:37,11/1/2016,Build & Configuration Related Issue
+655,Closed,[TM3_PI&C] Need to Add 'Unspecified' Value in Gender Drop Down,3,7/1/2016,Test/SIT,Defect,20/1/2016 2:43,20/1/2016,Requirement Issue - Change in Requirement
+656,Closed,[TM3 Migration] Source data missing CC info on some of the policies,3,7/1/2016,Development,Defect,8/1/2016 7:00,8/1/2016,Coding Issue
+657,Closed,[TM3_Correspondence]: System is not displaying plan name correctly in the 'Your Premium' section for Student plan,3,8/1/2016,Test/SIT,Defect,12/1/2016 22:09,13/1/2016,Existing Production Issue
+658,Closed,"[TM3_Accounting_Module] :  ""Sub Account"" column is showing ?0? value in GL data file instead of showing Correct data from GLAccountInformation Table",2,8/1/2016,Test/SIT,Defect,13/1/2016 14:59,13/1/2016,Build & Configuration Related Issue
+659,Ready to Retest,[TM3_Q&I_LIA] Step 4_Application page_Insured Search not working.,3,8/1/2016,Test/SIT,Defect,21/1/2016 4:54,18/1/2016,Coding Issue
+660,Closed,"[TM3_Accounting_Module] : ""Product"" column is not getting displayed in correct format in GL data file",4,8/1/2016,Test/SIT,Defect,13/1/2016 23:01,14/1/2016,Build & Configuration Related Issue
+661,Closed,[TM3_Confirmations]: Field level issues in the 'Applicant and Coverage Information' section in the confirmation when selected plan=Trip Cancellation/Interruption,4,8/1/2016,Test/SIT,Defect,20/1/2016 23:57,21/1/2016,Requirement Issue - Change in Requirement
+662,Closed,[TM3_Confirmation]The 'relation to Applicant' field and 'benefit offering'field is not getting displayed for OCM STEM plan  in policy package pdf,3,8/1/2016,Test/SIT,Defect,13/1/2016 14:50,13/1/2016,Database Issue
+663,Open,"[TM3_Accounting] : GL data file , Summarization functionality is not working as expected",2,8/1/2016,Test/SIT,Defect,16/1/2016 9:34,,
+664,Rejected,[TM3_Confirmation]The bounceback benefit field is not getting displayed for STAI plan in the policy package pdf.,3,8/1/2016,Test/SIT,Defect,11/1/2016 5:21,11/1/2016,Testing Issue - Oversight of Testing Requirements
+665,Closed,"[Tm3_Accounting_Module] :Ledger Column is getting displayed as blank where CERT = blank, in GL data file",3,8/1/2016,Test/SIT,Defect,13/1/2016 3:37,13/1/2016,Coding Issue
+666,Closed,[TM3_Confirmation]The allignment of text is not proper in the policy pdf for policy change in VTC PLAN B.,4,8/1/2016,Test/SIT,Defect,14/1/2016 4:19,14/1/2016,Design Issue
+667,Closed,[TM3_Q&I] Step 5_Final Recap page_Pre-existing condition exclusion not shown.,3,8/1/2016,Test/SIT,Defect,13/1/2016 6:16,13/1/2016,Build & Configuration Related Issue
+668,Open,[TM3_PI&C] Premium Adjustment Details section is not displaying any record for Student - Inbound Plan,3,8/1/2016,Test/SIT,Defect,13/1/2016 7:59,,
+669,Closed,[TM3_Q&I] EMTU-Pre-existing condition exclusion section not showing up.,3,8/1/2016,Test/SIT,Defect,13/1/2016 6:49,13/1/2016,Build & Configuration Related Issue
+670,Open,[TM3_Accounting] : Cosmetic issue in the medical questionnaire section in the confirmation template for plan=MTAI,4,8/1/2016,Test/SIT,Watch List,20/1/2016 21:16,,
+671,Closed,[TM3_Correspondence]: Cosmetic issue with the border in the confirmation for student plan and MTAI,4,8/1/2016,Test/SIT,Defect,12/1/2016 22:39,13/1/2016,Existing Production Issue
+672,Closed,"[TM3_Accounting] : GLLawsonDetail.REPORT column is showing ""20160108"" instead of showing GLAccounting.Value",3,8/1/2016,Test/SIT,Defect,21/1/2016 3:45,21/1/2016,Build & Configuration Related Issue
+673,Closed,[TM3 Accounting Module] AccountingEntity missing leading 0  in final GL feed file,4,8/1/2016,Test/SIT,Defect,13/1/2016 14:51,13/1/2016,Testing Issue - User Error
+674,Closed,[TM3 Migration] Migration of depart date causing subsqeunt policy change to fail,3,8/1/2016,Test/SIT,Watch List,18/1/2016 11:06,18/1/2016,Coding Issue
+675,Open,"[TM3_PI&C] Over_Payment_UT: After Commit, Payment Amount is not showing Correct value in Opportunity Payment Section",2,11/1/2016,Test/SIT,Defect,16/1/2016 9:34,,
+676,Ready to Retest,"[TM3_PI&C] Over_Payment_UT : After making Cheque payment and clicking on Commit button, Write off amount is not showing correct value in Premium Info section",2,11/1/2016,Test/SIT,Defect,20/1/2016 13:10,13/1/2016,Coding Issue
+677,Closed,"[TM3_Accounting_Module] : Upon clicking on Cancel button of ""Manual Accounting Entry Edit"", user is navigated back to manual Accounting Entry Detail page, instead of going back to Manual Accounting Home Page",3,11/1/2016,Test/SIT,Defect,13/1/2016 3:59,13/1/2016,Testing Issue - User Error
+678,Open,[TM3_Q&I] Processing Rules_Education Start Date Error Message. - Validation Rule missing,3,11/1/2016,Test/SIT,Defect,20/1/2016 6:27,,
+679,Ready to Retest,"[TM3_PI&C] Over_Payment_OT : After making Cheque payment and clicking on Commit button, Suspense amount is not showing correct value in Premium Info section",2,11/1/2016,Test/SIT,Defect,18/1/2016 11:05,13/1/2016,Coding Issue
+680,Closed,[TM3_Accounting_Module] : DEBIT amount and CREDIT Amount fields are getting displayed as Mandatory field in New Accounting Transaction Edit page.,3,11/1/2016,Test/SIT,Defect,14/1/2016 22:49,15/1/2016,Build & Configuration Related Issue
+681,Closed,[TM3_Accounting] : Manual Accounting Entry : User ID column is not getting displayed for any Accounting Transaction rows under Accounting Transaction section,3,11/1/2016,Test/SIT,Defect,21/1/2016 1:18,21/1/2016,Build & Configuration Related Issue
+682,Closed,"[TM3_Accounting] : Manual Accounting : Upon clicking on Edit button for any selected MAE entry, Asset# field is showing as a read only field",2,11/1/2016,Test/SIT,Defect,18/1/2016 11:04,18/1/2016,Requirement Issue - Change in Requirement
+683,Closed,"[TM3_Accounting] : upon clicking on New Accounting Transaction button, Accounting Transaction Group field is getting displayed instead of showing Manual Accounting Entry in Accounting Transaction Edit page",4,11/1/2016,Test/SIT,Defect,21/1/2016 2:01,21/1/2016,Design Issue
+684,Closed,[TM3_Q&I] Clarification_Field names.,4,11/1/2016,Test/SIT,Watch List,21/1/2016 22:19,22/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+685,Closed,"[TM3_Accounting_Module]: Manual Accounting : Upon clicking on New Accounting Transaction button, Accounting Transaction Group field is getting displayed as Lookup field where user can change the MAE ID",3,11/1/2016,Test/SIT,Defect,13/1/2016 7:03,13/1/2016,Requirement Issue - Change in Requirement
+686,Closed,[TM3_PI&C]: Coverage amount is displaying values other than '100000' and '150000' when super visa indicator is checked as 'Yes',3,11/1/2016,Test/SIT,Watch List,21/1/2016 1:15,21/1/2016,Design Issue
+687,Closed,[TM3_Accounting] : GLAccounting and GLLawsonDetail table is not showing any policy data for those which has Payment Type = Cheque,1,11/1/2016,Test/SIT,Defect,18/1/2016 3:27,18/1/2016,Coding Issue
+688,Closed,[TM3_Accounting] : No additional information (displayed within ()) should get displayed except Column name in GL data file csv file.,3,11/1/2016,Test/SIT,Defect,18/1/2016 11:02,18/1/2016,Coding Issue
+689,Closed,[TM3_Accounting] : Remove ?[? from MISC1 column header in GL data file,4,11/1/2016,Test/SIT,Defect,18/1/2016 11:01,18/1/2016,Coding Issue
+690,Closed,[TM3 Accounting] Remove header from Lawson Direct feed,2,11/1/2016,Test/SIT,Defect,20/1/2016 21:07,12/1/2016,Build & Configuration Related Issue
+691,Closed,"[TM3 Migration] Changes to Spec, need to update the mapping logic on 2 fields",3,11/1/2016,Development,Defect,13/1/2016 22:25,14/1/2016,Coding Issue
+692,Fixed,[TM3_PI&C] - Policy Void no Longer Working as Expected,3,11/1/2016,Test/SIT,Defect,22/1/2016 4:05,13/1/2016,Coding Issue
+693,Closed,[TM3_Q&I] - Final Recap - Policy Mailing Question Needs to be Removed,3,11/1/2016,Test/SIT,Defect,14/1/2016 12:17,14/1/2016,Build & Configuration Related Issue
+694,Closed,[TM3_Q&I_COPY] STP_National_Outbound_Province label,4,11/1/2016,Test/SIT,Defect,18/1/2016 23:27,19/1/2016,Build & Configuration Related Issue
+695,Open,[TM3_Q&I] Medical Questionnaire shown for age = 59,2,11/1/2016,Test/SIT,Defect,20/1/2016 6:15,,
+696,Open,[TM3_Q&I_UX] User is able to copy-paste in the Confirm Email Address field in Step 4,4,11/1/2016,Test/SIT,Defect,16/1/2016 14:53,,
+697,Open,[TM3_Q&I] STP_Outbound_Host Street number field missing,3,11/1/2016,Test/SIT,Defect,22/1/2016 0:36,,
+698,Open,[TM3_Q&I] Clarification : Order of display mismatch,4,11/1/2016,Test/SIT,Watch List,12/1/2016 5:54,,
+699,Fixed,[TM3_PI&C] : User is able to save the data of Payment entry after Clicking on Cancel button in Payment Edit page (This is not expected),3,11/1/2016,Test/SIT,Defect,22/1/2016 4:03,,Testing Issue - User Error
+700,Open,[TM3_Q&I_UX_Other] iPad Air 2: UI issues in Step# 1 while testing in Safari browser,2,11/1/2016,Test/SIT,Defect,19/1/2016 9:36,,
+701,Open,"[TM3_PI&C] Payment_Screen_Module - System is showing wrong ""payment amount"" value in payment header section while editing ""Information -> Payment Amount"" field for multiple times",2,11/1/2016,Test/SIT,Defect,16/1/2016 9:37,,
+702,Closed,[TM3_PI&C] Some Screen Elements are not visible for Void policy,4,12/1/2016,Test/SIT,Defect,21/1/2016 11:02,21/1/2016,Requirement Issue - Ambiguous/Unclear Requirement
+703,Open,[TM3_Q&I_Browser]  Back Button - System is displaying error message on a valid date and covered days are not being calculated for VTC plan,4,12/1/2016,Test/SIT,Defect,16/1/2016 9:38,,
+704,Ready to Retest,[TM3_PI&C]: Salesforce is displaying the policy status as 'Active' whereas in database policy status is displaying as 'Payment Pending',3,12/1/2016,Test/SIT,Defect,21/1/2016 2:16,13/1/2016,Coding Issue
+705,Closed,[TM3_Migration]There is a mismatch in the medical questions section for policy no '5A82314z',3,12/1/2016,Development,Defect,21/1/2016 11:02,21/1/2016,Coding Issue
+706,Closed,[TM3_PI&C]: Error message content mismatch when user clicks on the 'On/Off Hold' button,4,12/1/2016,Test/SIT,Defect,21/1/2016 1:22,21/1/2016,Coding Issue
+707,Closed,[TM3_PI&C] Count of payment record is more than actual payment done,3,12/1/2016,Test/SIT,Defect,21/1/2016 13:48,21/1/2016,Design Issue
+708,Open,[TM3_PI&C] Payment is not getting Voided on two identical payments,2,12/1/2016,Test/SIT,Defect,13/1/2016 22:10,,
+709,Closed,[TM3_Accounting_Module] : GLLawsonDetail.Description column is showing  NULL value for Manual Accounting Entries,3,12/1/2016,Test/SIT,Defect,14/1/2016 21:50,15/1/2016,Coding Issue
+710,Closed,[TM3_Q&I_DB] Database - Postal code is displayed wrong for AddressTypeID=115,3,12/1/2016,Test/SIT,Defect,19/1/2016 1:34,19/1/2016,Coding Issue
+711,Ready to Retest,[TM3_Q&I] Page 5 VTC policy pdf update,4,12/1/2016,Test/SIT,Defect,20/1/2016 13:11,,Build & Configuration Related Issue
+712,Open,"[TM3: Migration] 5A0080864P, please investigate how InsuredID and MultipleInsuredID should be populated in PolicyBenefit for a Madatory Benefit",2,12/1/2016,Test/SIT,Watch List,14/1/2016 13:05,,
+713,Ready to Retest,[TM3_Confirmations] Medical questions for  French correspondence are all shown in English,2,12/1/2016,Test/SIT,Defect,20/1/2016 13:14,13/1/2016,Coding Issue
+714,Ready to Retest,[TM3_Confirmations] French lookup values are displayed in English on confirmation,2,12/1/2016,Test/SIT,Defect,20/1/2016 13:14,13/1/2016,Coding Issue
+715,Ready to Retest,[TM3_Confirmations] Missing support for French,2,12/1/2016,Test/SIT,Defect,20/1/2016 13:14,13/1/2016,Coding Issue
+716,Retested,Confirmation created during Q&I process not available in Policy change confirmation list,2,12/1/2016,Test/SIT,Defect,15/1/2016 3:10,13/1/2016,Coding Issue
+717,Ready to Retest,[TM3_Q&I_Browser] Cache - Previous session data  not applicable for the current policy is present in the payload,3,12/1/2016,Test/SIT,Defect,20/1/2016 13:15,13/1/2016,Coding Issue
+718,Fixed,[TM3_Q&I] Number of dependent children not passed into payload for Family TopUp plan,3,12/1/2016,Test/SIT,Defect,21/1/2016 22:01,13/1/2016,Coding Issue
+719,Closed,[TM3_Accounting_Module] : Receiving Web Services Error in Error Messages section after approving MAE from TRIP,1,12/1/2016,Test/SIT,Defect,13/1/2016 8:24,13/1/2016,Coding Issue
+720,Closed,[TM3_PI&C_Module_PCI_Form] : Getting PCI Page unavailable error upon clicking on PCI Form button from Payment detail page,1,13/1/2016,Test/SIT,Defect,13/1/2016 22:25,14/1/2016,Coding Issue
+721,Open,[TM3_Q&I_COPY] Step 1 -Cosmetic issue: Content mismatch when coverage start date is 60 days greater than purchase date,4,13/1/2016,Test/SIT,Defect,17/1/2016 14:04,,
+722,Open,[TM3_PI&C] System is allowing user to create a new opportunity while one opportunity already exist in 'Application Processing' stage,3,13/1/2016,Test/SIT,Watch List,21/1/2016 10:59,,
+723,Open,[TM3_Q&I_COPY]: Traveller/Applicant label is not consistent in the first page/plan selection/Applicant Information page,4,13/1/2016,Test/SIT,Defect,16/1/2016 19:37,,
+724,Closed,[TM3_Migration]The Number of records in the policy.correspondence table does not match with the no of records present in wynsure for those policies.,4,13/1/2016,Development,Defect,18/1/2016 10:45,18/1/2016,Coding Issue
+725,Ready to Retest,[TM3_Q&I]VTC Companion case fails where no phone info are provided for the Host contact,3,12/1/2016,Test/SIT,Defect,21/1/2016 23:10,,Build & Configuration Related Issue
+726,Ready to Retest,[TM3_Q&I] VTC Companion payload phone info is incorrect,3,13/1/2016,Test/SIT,Defect,21/1/2016 23:11,18/1/2016,Coding Issue
+727,Closed,[TM3 Migration] We believe CoveredAmountBeforeDeparture and CoveredAmountAfterDeparture in ProductIntermediate are not being populated,2,13/1/2016,Development,Defect,18/1/2016 10:56,18/1/2016,Requirement Issue - Change in Requirement
+728,Closed,"[TM3_Q&I_DB] Address Line 1 showing ""null null"" for VTC Home Address.",3,13/1/2016,Test/SIT,Defect,15/1/2016 4:42,15/1/2016,Coding Issue
+729,Ready to Retest,"[TM3_Q&I] North West Territoires, Canada Travel location fails in the service call",3,13/1/2016,Test/SIT,Defect,20/1/2016 13:15,,Build & Configuration Related Issue
+730,Closed,[TM3_Migration] : The policy ApplicationDate is 5 hours less that it should be for migrated policies.,2,13/1/2016,Development,Defect,15/1/2016 5:20,15/1/2016,Coding Issue
+731,Open,[TM3_Migration] Coverage amount  not displayed correctly on confirmation,2,13/1/2016,Development,Defect,21/1/2016 21:09,,
+732,Closed,[TM3_Q&I] EMTU_Family Coverage Multiplier - incorrect multiplier,2,13/1/2016,Test/SIT,Defect,21/1/2016 3:22,21/1/2016,Coding Issue
+733,Open,[TM3_Q&I] Clarification_VTC/Student Inbound province not populated in Step 4,4,13/1/2016,Test/SIT,Watch List,14/1/2016 5:27,,
+734,Closed,[TM3_PI&C] No record is being displayed in Payment Adjustment Details grid for VTC Plan B,2,13/1/2016,Test/SIT,Defect,18/1/2016 10:55,18/1/2016,Coding Issue
+735,Open,[TM3_Q&I] Clarification_Multi Trip duration_Field label,4,13/1/2016,Test/SIT,Watch List,14/1/2016 5:27,,
+736,Ready to Retest,"[TM3_Q&I] Cache Issues- Address is not populating the Correct Addres when ""Create New Application"" option is used",2,13/1/2016,Test/SIT,Defect,20/1/2016 13:16,18/1/2016,Coding Issue
+737,Open,[TM3_PI&C] Premum_Info - System is showing all amount fields as ?0? in Payment header and Opportunity Detail -> Premium Info section when User cancel a policy and save the Payment details in payment Edit page,2,14/1/2016,Test/SIT,Defect,16/1/2016 9:50,,
+738,Ready to Retest,"[TM3_PI&C] : After hitting Commit button for Cancelled Policy, Multiple Entries get created in below tables: Payment, Policy_Payment, BackOfficeTransaction",2,14/1/2016,Test/SIT,Defect,20/1/2016 13:17,18/1/2016,Coding Issue
+739,Open,[TM3_Q&I] STP_Inbound_ Canadian arrival date should not be a mandatory field.,4,13/1/2016,Test/SIT,Defect,21/1/2016 12:17,,Requirement Issue - Inadequate/Missing Requirement
+740,Open,[TM3_Q&I_UX] Cosmetic issue in the 'Thank You' page text,4,14/1/2016,Test/SIT,Defect,15/1/2016 11:39,,
+741,Open,[TM3 Migration / Forms] Differences in Policy Comfirmation for migrated policy 6A0110719S,3,14/1/2016,Development,Watch List,22/1/2016 2:05,,
+742,Closed,[TM3_Confirmations] CMM100000083 - Coverage amount not displayed correctly on Confirmation Form,2,14/1/2016,Development,Defect,20/1/2016 13:17,20/1/2016,Coding Issue
+743,Closed,[TM3: Confirmations] CMM100000083 - Deductible saving label is not correct,2,14/1/2016,Development,Defect,20/1/2016 13:59,20/1/2016,Coding Issue
+744,Ready to Retest,[TM3: Confirmations] BouncBack info is not displayed correctly,2,14/1/2016,Development,Defect,21/1/2016 22:24,18/1/2016,Coding Issue
+745,Fixed,[TM3_Q&I] PCI Payment Page - Token,2,14/1/2016,Test/SIT,Defect,20/1/2016 2:10,,Requirement Issue - Change in Requirement
+746,Ready to Retest,[TM3_Confirmations] Cancelled policy status,4,14/1/2016,Test/SIT,Defect,20/1/2016 13:20,,Design Issue
+747,Ready to Retest,"[TM3_Confirmations] policy 6A0110721A, wrong paragraph is printed",2,14/1/2016,Development,Defect,21/1/2016 9:01,18/1/2016,Coding Issue
+748,Closed,[TM3_Migration] Logic to setup Couple policies in one booking  is not work (e.g. 6A0110720p and 6A0110721a ),2,14/1/2016,Development,Defect,17/1/2016 20:24,17/1/2016,Coding Issue
+749,Closed,[TM3_Migration] Logic for mapping to Traveler Type is not working for companion policies,2,14/1/2016,Development,Defect,17/1/2016 20:24,17/1/2016,Coding Issue
+750,Closed,[TM3_Confirmations] Companion name not printed,2,14/1/2016,Development,Defect,20/1/2016 13:22,20/1/2016,Coding Issue
+751,Closed,[TM3_Migration] Logic to populate CompanionBookingID not  according to Spec,2,14/1/2016,Development,Defect,17/1/2016 20:24,17/1/2016,Coding Issue
+752,Closed,[TM3_Migration] CompanionBookingID and CompanionBookingName is only populated for one of companion policies,2,14/1/2016,Development,Defect,17/1/2016 20:24,17/1/2016,Coding Issue
+753,Rejected,[TM3_Migration] How come only some medical questions are migrated for policy 6A0110721a,2,14/1/2016,Development,Defect,20/1/2016 22:37,21/1/2016,Environment Issue
+754,Closed,[TM3_Migration] Updated MIGR-02-POL08 and  MIGR-02-POL09in WP18 Spec document,3,14/1/2016,Development,Defect,17/1/2016 20:24,17/1/2016,Coding Issue
+755,Closed,[TM3_Migration] MTEM plans only applying EM portion of premium,2,14/1/2016,Development,Defect,17/1/2016 23:25,18/1/2016,Coding Issue
+756,Open,[TM3_Migration] Trip info for MTEM plans is incorrect,2,14/1/2016,Development,Defect,21/1/2016 21:00,,
+757,Closed,[TM3_Migration] MTEM plans are setting up CanadianArrivaldate,3,14/1/2016,Development,Defect,17/1/2016 23:46,18/1/2016,Coding Issue
+758,Closed,[TM3_Migration] MTEM Payment datetime incorrect for payments on all migrated policies,2,14/1/2016,Development,Defect,18/1/2016 1:04,18/1/2016,Coding Issue
+759,Rejected,[TM3_Migration] MQ_Indicator not set correctly in the Wynsure data extract,3,14/1/2016,Development,Defect,17/1/2016 20:43,17/1/2016,Environment Issue
+760,Closed,[TM3_Migration] Gender not set correctly in the Wynsure data extract,3,14/1/2016,Development,Defect,18/1/2016 1:22,18/1/2016,Coding Issue
+761,Closed,[TM3_Migration] VTC plans have Departure and destination info,3,14/1/2016,Development,Defect,18/1/2016 1:39,18/1/2016,Coding Issue
+762,Closed,[TM3_Migration] Premium adjustment info generated for STP family plans,3,14/1/2016,Development,Defect,18/1/2016 1:58,18/1/2016,Coding Issue
+763,Closed,[TM3_Confirmations]: Cover Me(R) is not readable in the cover letter for VTC plans,4,14/1/2016,Test/SIT,Defect,21/1/2016 1:58,21/1/2016,Design Issue
+764,Closed,"[TM3_Accounting] : For Policy Number = 'CMM100000030'and IsManual = True, GLAcocunting.legal column is only showing ?0001?(No entry found for ?0111?) where as in GLAwsonDetails.AccountingEntity is showing 3 rows with ?0111? entry",3,15/1/2016,Test/SIT,Defect,20/1/2016 22:46,21/1/2016,Build & Configuration Related Issue
+765,Open,[TM3_Accounting] : For Manual Accoutning Entry : GLAccounting.TransactionAmount - Is Showing 8 rows where as GLLawsonDetail.TransactionAmount column has 158 entry,2,15/1/2016,Test/SIT,Defect,22/1/2016 0:17,,Design Issue
+766,Open,[TM3_Q&I_DB] Database_RateCategoryID stored wrong.,3,15/1/2016,Test/SIT,Defect,20/1/2016 6:12,,
+767,Closed,[TM3_Migration] The base premium and other premium fields in the policy.benefit table does not match with the application for policy no '6a0110739o',3,15/1/2016,Development,Defect,20/1/2016 20:57,20/1/2016,Coding Issue
+768,Fixed,[TM3_Migration]The Multitrip durationId is set as 'Null' in policytable for Multi trip plan for policyid '6a0110739o',3,15/1/2016,Development,Defect,21/1/2016 13:12,,Environment Issue
+769,Closed,[TM3_Migration]The Medical questions are not populated correctly for policy no '6a0110739o',3,15/1/2016,Development,Defect,20/1/2016 20:58,20/1/2016,Build & Configuration Related Issue
+770,Ready to Retest,[TM3_Confirmations]:  Value for Gender column is displaying as 'Unspecified' in the policy package sent over email for policy issuance,3,15/1/2016,Test/SIT,Defect,21/1/2016 1:49,20/1/2016,Coding Issue
+771,Fixed,[TM3_Confirmations]: 'Print' button is not available neither in the online policy package nor in PI&C when it is viewing as webpage,3,15/1/2016,Test/SIT,Defect,21/1/2016 6:04,,Requirement Issue - Ambiguous/Unclear Requirement
+772,Duplicate,[TM3_Correspondence] BB displayed in incorrect order,2,14/1/2016,Development,Defect,18/1/2016 23:34,15/1/2016,Coding Issue
+773,Ready to Retest,[TM3_Migration] AmountPaidTotal not calculated correctly in migration,2,14/1/2016,Development,Defect,21/1/2016 14:17,20/1/2016,Coding Issue
+774,Ready to Retest,[TM3_Migration] There are 2 payments on migrated policy on SF,2,15/1/2016,Development,Defect,21/1/2016 22:28,,Build & Configuration Related Issue
+775,Open,[TM3_Migration] Birth date for multi insured on VTC plans is incorrect,3,15/1/2016,Development,Defect,22/1/2016 0:35,,
+776,Closed,[TM3_Accounting]  IsDefault setting for UnitsAmount is not set,3,15/1/2016,Test/SIT,Defect,18/1/2016 10:50,18/1/2016,Build & Configuration Related Issue
+777,Open,[TM3_Q&I] PCI error message,2,15/1/2016,Test/SIT,Defect,21/1/2016 0:42,,
+778,Open,[TM3_Accounting] Manual Accounting Entry screen - requirement has changed,4,15/1/2016,Test/SIT,Defect,19/1/2016 9:37,,
+779,Closed,[TM3_Q&I] VTC Exclusion Appearing Twice on Plan Recap For Companion,2,15/1/2016,Test/SIT,Defect,21/1/2016 3:47,21/1/2016,Build & Configuration Related Issue
+780,Closed,[TM3_Q&I] Application Info Progress Check Marks,2,15/1/2016,Test/SIT,Defect,21/1/2016 2:33,21/1/2016,Coding Issue
+781,Fixed,[TM3_Q&I] Quote Step 1 - Default for Coverage End Date (TUP),2,15/1/2016,Test/SIT,Defect,21/1/2016 17:39,,Build & Configuration Related Issue
+782,Fixed,[TM3_Q&I] Quote Step 1 - Default for Education End Date (Student Plan),2,15/1/2016,Test/SIT,Defect,21/1/2016 21:10,,Build & Configuration Related Issue
+783,Closed,[TM3_Q&I] Application Details - Host Info Should Appear Once for VTC Family,2,15/1/2016,Test/SIT,Defect,21/1/2016 3:47,21/1/2016,Coding Issue
+784,Closed,[TM3_Q&I] Application Details - Education Start/End Date Should Not be Editable,2,15/1/2016,Test/SIT,Defect,21/1/2016 22:54,22/1/2016,Coding Issue
+785,Closed,[TM3_Q&I_UX] Final Recap Page - Minor Formatting Issues With Gender and Language,2,15/1/2016,Test/SIT,Defect,21/1/2016 4:09,21/1/2016,Build & Configuration Related Issue
+786,Ready to Retest,[TM3_Q&I] Final Recap Page - Postal Code Missing,2,15/1/2016,Test/SIT,Defect,21/1/2016 4:23,,Build & Configuration Related Issue
+787,Closed,[TM3_Accounting] System displays unexpected error messages on submitting MAE,2,16/1/2016,Test/SIT,Defect,20/1/2016 13:57,20/1/2016,Environment Issue
+788,Open,[TM3_Q&I] Drop Down Values for 'Preferred Method of Communication' Need to Be Updated,3,15/1/2016,Test/SIT,Defect,18/1/2016 6:20,,
+789,Open,[TM3_Q&I_UX] Format for Finacial Amounts ($ sign and decimals missing),2,17/1/2016,Test/SIT,Defect,20/1/2016 18:51,,
+790,Ready to Retest,[TM3_Q&I_UX] Page doesn't scroll to top in case of Error Messages,2,17/1/2016,Test/SIT,Defect,20/1/2016 13:27,,Build & Configuration Related Issue
+791,Open,"[TM3_Q&I] EMTU plan when ""Trip duration"" is equal to ""Days with other plan""",4,17/1/2016,Test/SIT,Defect,18/1/2016 12:07,,
+792,Open,[TM3_Q&I_COPY]French_OCM field label for trip duration,4,18/1/2016,Test/SIT,Defect,18/1/2016 6:22,,
+793,Ready to Retest,"[TM3_Accounting_Module] :  For manual Accounting Entries, GLAccounting.AccountingUnit is showing default value(i.e.-C999452) where GLAccountInformationID = 8",3,18/1/2016,Test/SIT,Defect,20/1/2016 13:27,20/1/2016,Coding Issue
+794,Open,[TM3_Q&I_UX] French_Browser tab name,4,18/1/2016,Test/SIT,Defect,18/1/2016 6:23,,
+795,Open,"[TM3_Q&I_UX] French_""More about Travelling Canadians plans"" link in French in Plan type description is being redirected to English page.",4,18/1/2016,Test/SIT,Defect,22/1/2016 4:42,,
+797,Closed,[TM3_Confirmation] Cannot generate form,2,18/1/2016,Development,Defect,20/1/2016 21:16,20/1/2016,Environment Issue
+798,Ready to Retest,[TM3_PI&C] : Changes required for WODM Quote rule 22,2,18/1/2016,Development,Defect,21/1/2016 20:33,,Requirement Issue - Change in Requirement
+799,Open,"[TM3 Q&I] when there are more family memebers, status on right hand side will overlap with Next button",3,18/1/2016,Development,Defect,19/1/2016 9:41,,
+800,Open,[TM3_Q&I] STAI Plans - Premium for EM & AI should not be dispalyed on two seperate line on Quote Summary & App Summary,3,18/1/2016,Test/SIT,Defect,21/1/2016 13:13,,
+801,Open,[TM3_Q&I_UX] AODA Compliance- Ability to Navigate the Site using Keyboard,2,18/1/2016,Test/SIT,Defect,22/1/2016 2:06,,
+802,Reopen,[TM3_DataFeeds] : CAR : The MTEM_LIA_ENG output file does not have any contents.,2,19/1/2016,Test/SIT,Defect,22/1/2016 1:45,,Test Data Issue - Invalid Test Data
+803,Closed,[TM3_DATAFEEDS] : CAR : The coverage end date in the policy table does not match with that of the application [salesforce] for certain policies.,3,19/1/2016,Test/SIT,Defect,21/1/2016 4:26,21/1/2016,Test Data Issue - Invalid Test Data
+804,Open,[TM3_Q&I_DB] STTCEM_Premium adjustment for $0 deductible shown in DB,3,19/1/2016,Test/SIT,Defect,19/1/2016 9:43,,
+805,Open,[TM3_Q&I_DB] NULL values in policy table,3,19/1/2016,Test/SIT,Defect,21/1/2016 0:26,,
+806,Fixed,[TM3_Accounting_Module]: GLAccounting and GLLawsonDetails table are showing those policies where Posting date > batch date . (2015-01-13 > 2015-01-12),3,19/1/2016,Test/SIT,Watch List,22/1/2016 0:29,,Environment Issue
+807,Open,"[TM3_Accounting_Module] : As per spec doc, Column name should be ""BankID"" ,currently it is showing ""bankID""",4,19/1/2016,Test/SIT,Watch List,20/1/2016 18:11,,
+808,Open,[TM3_PI&C] System is displaying error message when Insured age is less than 30 days,3,19/1/2016,Test/SIT,Defect,20/1/2016 2:24,,
+809,Open,[TM3_Confirmations]: French: Issue in the policy cancellation cover letter for OCM  and Student plans,3,19/1/2016,Test/SIT,Defect,21/1/2016 9:11,,
+810,Open,[TM3_Datafeeds] : ACM :  Multiple entries for the same policy number is present in the data feed for ACM,3,19/1/2016,Test/SIT,Defect,20/1/2016 21:08,,
+811,Open,[TM3_Confirmations]: French: Issue in the policy cancellation cover letter for VTC plans,3,19/1/2016,Test/SIT,Defect,21/1/2016 9:11,,
+812,Fixed,[TM3_Q&I_LIA] Latest Purchase Date_Processing Rule not working.,2,19/1/2016,Test/SIT,Defect,20/1/2016 21:06,,Requirement Issue - Change in Requirement
+813,Open,"[TM3_Accounting]  : Debit and Credit lables are wrongly displayed in Control file. please include ""s"" at end of labels",4,19/1/2016,Test/SIT,Defect,20/1/2016 21:12,,Design Issue
+814,Ready to Retest,[TM3_Q&I] Unable to purchase policy using credit card,2,20/1/2016,Test/SIT,Defect,22/1/2016 3:08,,Environment Issue
+815,Fixed,"[TM3_Accounting]  : GL Data file , Units Amount column is showing '0' value instead of showing <blank>",3,20/1/2016,Test/SIT,Defect,22/1/2016 0:38,,Design Issue
+816,Ready to Retest,[TM3_Q&I] Clarification_ Companion Traveller Question Display,4,19/1/2016,Test/SIT,Watch List,22/1/2016 0:55,,Requirement Issue - Ambiguous/Unclear Requirement
+817,Fixed,"[TM3_Accounting]  : in GL Data file, RES column(in Excel, Column 'V' - there are 15 records with no residence code populated",2,20/1/2016,Test/SIT,Defect,22/1/2016 0:48,20/1/2016,Coding Issue
+818,Fixed,"[TM3_Accounting] : For all Summarized Entries in GL Data file, Report column (i.e. Column AB) is showing blank value.",2,20/1/2016,Test/SIT,Defect,22/1/2016 2:30,20/1/2016,Coding Issue
+819,Open,[TM3_Confirmations]: French: Issue in the policy change cover letter for all plans,3,19/1/2016,Test/SIT,Defect,21/1/2016 9:13,20/1/2016,Coding Issue
+820,Open,[TM3_Q&I_COPY]_Family error message shown in English for the French site,4,20/1/2016,Test/SIT,Defect,20/1/2016 9:06,,
+821,Open,"[TM3_Accounting] : In GL Data file, Account 130000 has some records with the default product - 99945.  Should contain policy benefit mapped value",2,20/1/2016,Test/SIT,Defect,20/1/2016 21:13,20/1/2016,Coding Issue
+822,Open,[TM3_Q&I] Clarification_Family Coverage,4,20/1/2016,Test/SIT,Watch List,20/1/2016 11:02,,
+823,Open,[TM3_Confirmations]: French: Issue in the policy correction cover letter for all plans,3,20/1/2016,Test/SIT,Defect,22/1/2016 2:05,,
+824,Open,[TM3_Datafeeds] : ACM :  The province and the address fields for few policies does not match with the data feed.,3,19/1/2016,Test/SIT,Defect,20/1/2016 21:09,,
+825,Open,[TM3_Datafeeds] : ACM :  The phone no field is not getting displayed in the data feed.,3,20/1/2016,Test/SIT,Defect,20/1/2016 21:10,,
+826,Fixed,[TM3_Datafeeds] : ACM: The departure and destination field value is showing the value of 'BRITISH COLUMBIA' as 'BRITISH COLUMBI',3,20/1/2016,Test/SIT,Watch List,22/1/2016 4:24,,Test Plan Issue - Insufficient Req Analysis
+827,Closed,"[TM3_Confirmations]: User is not able to generate Issuance cover letter, 'Webservice callout error failed' error message is getting displayed",2,20/1/2016,Test/SIT,Defect,21/1/2016 21:07,22/1/2016,Environment Issue
+830,Fixed,"[TM3_PI&C_Module] : User is not able ""Add Payment"" and Commit Payment details from Quote Opportunity page",1,20/1/2016,Test/SIT,Defect,22/1/2016 3:58,22/1/2016,Coding Issue
+831,Fixed,"[TM3_PI&C_Module] : Upon clicking on Commit, System is showing error message for Cheque paid policies",1,20/1/2016,Test/SIT,Defect,22/1/2016 1:56,22/1/2016,Coding Issue
+832,Fixed,[TM3_PI&C] Policy Status Is Payment Pending but it Should be Active,3,20/1/2016,Test/SIT,Defect,21/1/2016 18:51,,Design Issue
+833,Fixed,[TM3_PI&C] Payment info out of sync between SF and TRIP database,2,20/1/2016,Development,Defect,21/1/2016 20:30,22/1/2016,Coding Issue
+834,Open,[TM3_Q&I] Partial data retrieved in client search,2,20/1/2016,Test/SIT,Defect,21/1/2016 21:50,22/1/2016,Coding Issue
+835,Open,[TM3_Q&I] Step 1 - Not able to enter Coverage End Date for OCM -Single Trip,2,20/1/2016,Test/SIT,Defect,21/1/2016 11:10,22/1/2016,Coding Issue
+836,Open,[TM3_Datafeeds]:ACM :The policy with status 'R' is not getting displayed in the datafeed when a policy is refunded.,3,20/1/2016,Test/SIT,Defect,21/1/2016 11:08,22/1/2016,Coding Issue
+837,Fixed,[TM3_Q&I] Step 5 - Not able to proceed after Final Recap page,1,20/1/2016,Test/SIT,Defect,22/1/2016 1:31,,Environment Issue
+838,Open,[TM3_Datafeeds]:ACM: The void policy is present in the ACM data feeds.,3,20/1/2016,Test/SIT,Defect,21/1/2016 11:08,22/1/2016,Coding Issue
+839,Fixed,"[TM3_Accounting] : System is showing ""Foreign Key Constraint Violations"" in Manual Accounting Entry detail Page",2,21/1/2016,Test/SIT,Defect,21/1/2016 20:17,,Build & Configuration Related Issue
+840,Open,[TM3_Datafeeds:]:ACM: The class name field is displaying blank for policies where ratecategory is applicable.,3,20/1/2016,Test/SIT,Defect,21/1/2016 11:08,22/1/2016,Coding Issue
+841,Open,[TM3_Datafeeds:]:ACM:The other_coverage_Days field for non topup plans is showing '0' in database but according to spec it should display 'blank',3,21/1/2016,Test/SIT,Defect,21/1/2016 11:09,22/1/2016,Coding Issue
+842,Open,[TM3_Datafeeds:]:ACM:The phone_2_res field is not getting displayed for students plan,3,21/1/2016,Test/SIT,Defect,21/1/2016 11:09,22/1/2016,Coding Issue
+843,Open,"[TM3_Q&I] EMTU_ On clicking back, system getting stuck",3,21/1/2016,Test/SIT,Defect,21/1/2016 20:43,22/1/2016,Coding Issue
+845,Open,[TM3_Q&I] STAI_Tax calculation,2,21/1/2016,Test/SIT,Defect,21/1/2016 11:13,22/1/2016,Coding Issue
+846,Open,[TM3_Product_Module] : Updates for the translation data taking too long,2,20/1/2016,Test/SIT,Defect,22/1/2016 2:32,22/1/2016,Coding Issue
+848,New,[TM3_Datafeeds]:CAR:The data present in MTAI_LIA_FRE output files does not match with the data present in the database.,3,22/1/2016,Test/SIT,Defect,22/1/2016 1:08,22/1/2016,Coding Issue
+849,New,[TM3_PI&C] User is able to enter to Payment Payment screen before approval on Policy Cancel,2,21/1/2016,Test/SIT,Defect,22/1/2016 3:46,22/1/2016,Coding Issue
+850,New,[TM3_Q&I_UX] French_Navigation header overlap.,4,22/1/2016,Test/SIT,Defect,22/1/2016 3:59,22/1/2016,Coding Issue
+851,New,[TM3_PI&C] Policy Status is being 'Cancelled' before approval where Coverage start date >= System Date,2,22/1/2016,Test/SIT,Defect,22/1/2016 4:30,22/1/2016,Coding Issue
