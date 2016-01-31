@@ -18,7 +18,6 @@ Defect Analysis - Impact
 - The cost of finding and fixing always one of the most expensive development activities
 - Project risk increase if discovered issues at later stage
 
-
 Defect Analysis - Early Discovery
 ========================================================
 
@@ -28,6 +27,12 @@ Why headmap?
 - Compare performance on diffrent projects/phases using visual
 - Distinguish level of urgency using color/visual
 - Provide a quick glance prior in-depth analysis
+
+This application will provide someone a high level overview of where we shall spend the effort in.
+This is to prevent further damage to the projects. 
+
+To learn more about the project, [Shiny Apps](https://neocklee.shinyapps.io/ProjectHeatMap/)
+
 
 
 Defect Analysis using R
@@ -45,6 +50,9 @@ gTreeMap <- gvisTreeMap(  myData,
 idvar="Root.Cause", parentvar = "Environment",
 sizevar = "Defect.Count", colorvar = "Defect.Log"))
 ```
+
+Complete source code, [Github](https://github.com/neocklee/ShinyApp)
+
 
 Defect Analysis Sample Output
 ========================================================
@@ -89,8 +97,6 @@ gTreeMap <- gvisTreeMap(  myDataFinal,
 
 ```
 
-```{r opts.label = 'interactive', results = 'asis'}
-#require(googleVis)
-#M1 <- gvisMotionChart(Fruits, idvar = 'Fruit', timevar = 'Year')
+```{r opts.label = 'interactive', results = 'asis', echo=TRUE}
 print(gTreeMap, tag = 'chart')
 ```
